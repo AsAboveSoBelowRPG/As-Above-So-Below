@@ -1,0 +1,1 @@
+Quiet, pastoral town that has established a thriving industry processing grain for the royal city of [[Salasandra]].
