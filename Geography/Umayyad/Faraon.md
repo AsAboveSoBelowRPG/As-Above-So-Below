@@ -1,0 +1,1 @@
+Though it lies in the mainland of the [[Umayyad]] empire, the people of Faraon consider it to be the capital of the sea. The citizens of this city spend more time on the water than on dry land, and have a salty toughness in the way the carry themselves.
