@@ -1,0 +1,1 @@
+This settlement in the northern Gharve used to be the seat of an ancient order of knights that were forced to disband when their might challenged the reigning king. Now it is a quiet, idyllic village.
