@@ -1,0 +1,1 @@
+Situated around a pristine desert oasis, Ghouzai is a wealthy city in the heart of the Rua Sedazul.
