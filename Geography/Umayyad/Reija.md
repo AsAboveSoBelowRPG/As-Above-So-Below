@@ -1,0 +1,1 @@
+A city that formed in a peculiar recess in the arrid lands of Northern Umayyad. Earthen huts dot the landscape, and rudimentary homes are carved into the sandstone cliff face.
