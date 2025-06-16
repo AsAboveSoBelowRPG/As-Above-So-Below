@@ -1,0 +1,8 @@
+Popular tales and lengthy tomes are not reserved only for the deeds of the [[Gods]]; there are heroes of every mortality throughout the entirety of [[História de Amalthea|Amalthean History]]. These heroes earn renown through their exceptional deeds - be it through feats of strength, an uncanny generosity or through unprecedented skill at crafting, arts, hunting, etc.
+
+Some of the favorite legendary heroes of Amalthea:
+
+- [[Sorbo]]; the [[Demigods|Demigod]] bound to a life of servitude to cleanse himself of an unspeakable sin. This divine hero remains endlessly popular, both because he dedicated himself to helping the unfortunate people of Amalthea, but also because his flawed nature made him more relatable to the average person.
+- [[Oisín Desterro]]; the human who lead a resistance against the [[Elder Races]] in a desperate bid for freedom. His war brought emancipation to mankind and has defined an era.
+- [[Afonso Roche]] - The last surviving member of the [[Ordem Etérea]], Afonso has fought both beast and man, brought war and peace and the unknown conditions of his death serve only to fuel the imaginations of those who sing his tales.
+- [[Geraldo De Rossio]]; the most famous [[Fixer]] to ever walk the continent, Geraldo is a living legend. Though many aren't pleased to see him enter their village, as evil seems to pursuit him even to the most quiet hamlet, at least you can be sure you'll have a story worth recounting once he leaves.
