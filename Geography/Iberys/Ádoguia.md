@@ -1,0 +1,3 @@
+Ádoguia is a historical village known only from early literature from the second age. It most likely would have been forgotten by history had it not been the birthplace of the early human hero [[Oisín Desterro]].
+
+From what is written, scholars have extrapolated that the village would have been situated inside what is now the [[Bocaterra]]. At the time of Oisín, prior to his vanquishing of the [[Tuatha]], the area was said to have been a fertile river valley that fed the great [[Bastetani Desert]] with abundant water, but the entire area was decimated during the conflict.
