@@ -1,0 +1,1 @@
+Anallód is the [[Primordial Gods|Primordial God]] of Time. Along with his brothers [[Éachtach]] and [[Anordú]], he was pivotal in sustaining the reign of darkness held by his father [[Smoladh]].
