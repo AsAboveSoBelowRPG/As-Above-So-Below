@@ -1,0 +1,1 @@
+The Nereid are aquatic [[Gods|Goddesses]] that reside in seas, oceans and lakes. They usually form relationships with [[Nymph|Nymphs]] and sometimes [[Naiad]] as well.
