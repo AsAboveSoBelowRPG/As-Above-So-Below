@@ -1,0 +1,1 @@
+An Orcish fort who's leadership changes bi-weekly, as the leader is chosen through bloody combat. With such a focus on in-fighting for power, they hardly ever pose a threat to nearby settlements.
