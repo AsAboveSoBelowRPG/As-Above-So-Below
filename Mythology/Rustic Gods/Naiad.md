@@ -1,0 +1,1 @@
+A [[Gods|Goddess]] that has taken form as a spring, funneling fresh water from the land into the realm beneath the sky. These Goddesses often form intimate relationships with [[Nymph|Nymphs]] that are wont to gather at the feet of a Naiad.
