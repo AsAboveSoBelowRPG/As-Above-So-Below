@@ -1,0 +1,1 @@
+Segomaro was a heroic adventurer known for his magical prowess. 
