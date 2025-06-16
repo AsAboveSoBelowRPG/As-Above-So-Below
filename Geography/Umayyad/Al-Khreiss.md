@@ -1,0 +1,1 @@
+The capital city of the [[Umayyad]] empire, Kreiss is a massive and prosperous city that serves as the eastern terminal of the famous [[Rua Sedazul]] trade route. Tales of Khreiss' beauty are told far and wide.
