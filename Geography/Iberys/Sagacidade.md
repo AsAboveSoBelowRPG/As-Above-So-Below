@@ -1,0 +1,1 @@
+A prosperous old city that hosts the proud and ancient university [[Quatrograde]].
