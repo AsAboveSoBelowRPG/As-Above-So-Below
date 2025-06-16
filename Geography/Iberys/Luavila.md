@@ -1,0 +1,1 @@
+The capital city of [[Iberys]], nestled along the center of the [[Glass Coast]].
