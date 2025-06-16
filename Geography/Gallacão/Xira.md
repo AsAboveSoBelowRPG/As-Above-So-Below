@@ -1,0 +1,1 @@
+Distant trading post along the [[Kasman Road]]; the last settlement before entering The [[Lordless Lands]]. The people of Xira have a reputation for being rude or hostile to travelers, and, as such, has failed to develop despite it's prime location.
