@@ -1,0 +1,1 @@
+This quaint, small settlement nestled between the [[Floresta Brilhante]] and the [[Abismo de Março]]. It initially sprung up around an ancient monument, though the meaning is lost to the current settlers.
