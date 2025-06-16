@@ -1,0 +1,7 @@
+A shop opened by famed master cartographer [[Johan Valente]], who accompanied the famed explorer [[Domynguos de Soria]] during his journey around the entirety of the [[Amalthea|continent]]. O Mundo Perdido sells maps and guide books compiled by the cartographer.
+
+Though his son Carlo apprenticed in the shop and skillfully replicated his father’s work, he lacked Johan’s adventurous spark—and so, his mark on the family legacy was faint at best. The flame dimmed further with Carlo’s son, [[Felipe Valente|Felipe]], who showed no interest in the trade whatsoever—at least not until his father died and the shop became his by inheritance, not intent
+
+In the time since he has taken over the shop, the reputation of O Mundo has suffered greatly; as his copies of his Grandfather's original maps are untrustworthy and lack current details important to seafaring merchants looking to map out profitable new routes between modern ports.
+
+To mitigate this failing reputation, Felipe has brought on an 'apprentice' from [[Quatrograde]] who he exploits for his steady and skilled hand. Though he is aware of the ineptitude of his master, [[Ayers Sanchez]] is using his apprenticeship as an opportunity to study the masterpiece works of his idol.
