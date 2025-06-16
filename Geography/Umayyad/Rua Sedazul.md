@@ -1,0 +1,3 @@
+The longest and most important trade route in [[Amalthea]]. It spans the expanse of the [[Umayyad]] desert, with its eastern terminal beginning in the capital city of [[Al-Khreiss]] and ending in [[Abadine]] on the western border with [[Gharve]].
+
+Though there is a primary route that travels through the great cities of the [[Bastetani Desert]], it also has a great number of tributary routes that connect to the nomadic trade centers to the primary path.
