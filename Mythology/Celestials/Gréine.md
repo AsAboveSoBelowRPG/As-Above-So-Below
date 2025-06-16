@@ -1,0 +1,9 @@
+Heralded as the King of the [[Celestials]], Gréine was the ancient God of the Sun, who shared his light with [[Amalthea]] from his throne in the kingdom of the realm of the sky, the domain of his consort [[Sadhbh]]. During the first age, once the [[Divine Unity]] was shattered, the Celestials were sequestered from the chaos taking place in the terrestrial realm. 
+
+From legends, we know that Gréine was a generous and beloved ruler, and held the devotion of his siblings and his partner. Everyone was shocked when a [[Primordial Gods|Primordial]] ascended to the realm of the sky and struck down the sun. The Lord of Darkness, [[Smoladh]] and his son [[Éachtach]] snuck up from their subterranean dwelling and murdered the Gréine, retreating back to the [[Cthonic Remains]] with Sadhbh as his prisoner.
+
+Smoladh had long been resentful of the light that challenged his realm of darkness and, fearful of a prophecy that he would be defeated by the children of Gréine, the spiteful God of Darkness had plotted for centuries to destroy the Sun God. It wasn't until he gave birth to the concept of Death that he was able to enact his scheme.
+
+Because the universe was still fresh at this point, [[Múnla]] had yet to introduce the concept of decay, so for countless eons the lifeless body of Gréine lay in the sky, casting no light on the land below or the heavens above. The other Celestials were so distraught by the sight that the realm of the sky was devoid of stars.
+
+Though he was dead, he continued to protect his realm when his massive, lightless body was used by [[The Lightbringers]] to obscure their radiance from the land below. Having concluded his purpose, Gréine's body took the shape of the massive shield [[Gealach]] which his son [[Nuaré]] used in the [[Luxomachy]].
