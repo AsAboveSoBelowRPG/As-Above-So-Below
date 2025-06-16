@@ -1,0 +1,3 @@
+The Pitch Pipe is a famous venue in [[Sagacidade]] where a number of famous musicians got their start. As such, it has become something of a destination for music aficionados.
+
+The building has been run as a tavern with little fanfare since 3'1946, but only became a destination for musicians around 3'2010 when a young woman named [[Lea Jangles]] was hired to manage the failing business. She had such success with the rebranding as a musical hotspot that she was able to purchase the business from its previous owners.
