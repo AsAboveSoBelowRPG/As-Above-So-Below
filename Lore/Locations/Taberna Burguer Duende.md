@@ -1,0 +1,1 @@
+A humble inn located in the Delta Lands of Southern [[Gallacão]].
