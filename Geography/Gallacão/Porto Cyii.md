@@ -1,0 +1,1 @@
+This port town tucked in the quiet [[Baía de Carneiro]] popular with nefarious seafarers due to its seclusion.
