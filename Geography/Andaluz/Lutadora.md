@@ -1,0 +1,1 @@
+The orcish capital, Lutadora hosts an ever-rotating contingency of warband leaders. Though typically known for their boisterous and uncivilized behavior, Orcs hold this land to be sacred and behave remarkably well within its walls.
