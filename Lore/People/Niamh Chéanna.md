@@ -1,0 +1,7 @@
+Niamh was an elven poet from the settlement of [[Anduantas]]. Her life was short and tragic, but its historic impact during the [[Anlaith]] insurrection as the first victim of murder within [[An-Talamh]] since the relocation of the elder races.
+
+Despite the ongoing presence of Anlaith scouts in [[The Loathewood]] that serves as a boundary between the kingdom of [[Gallacão]] and An-Talamh, Niamh was fond of the landscape and found inspiration in wandering the paths. Unfortunately she was discovered by a desperate group of scouts lead by [[Limgrave Aire]].
+
+Willing to do anything to extract the location of the city, Limgrave and his troupe abused and tortured the girl. For days she was subjected to brutal interrogation and questioning, but no threat or violence was able to extract the invitation needed to step foot in the city. Resorting to particularly vile means, Limgrave used the venom of the Mesmo scorpion to put Niamh into a state of agonizing pain. In this weakened state, he was able to use dark magic to pry the words from her.
+
+Sadly Niamh would die shortly after the venom was administered and her body was never recovered. Though she was the catalyst that lead the Anlaith to overthrow the [[Hall of the Oracle]], Niamh is seen as a saint and is adored for her bravery and resilience in the face of overwhelming violence.
