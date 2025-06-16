@@ -1,0 +1,1 @@
+Occupied for only 3 months of each year, Oxmal is a unique market city at a major crossroads within the Sedazul where nomads converge to share and trade their wares.
