@@ -1,0 +1,5 @@
+During the war between [[Gharve]] and [[Umayyad]], master smith [[Gil Salazar]] established this forge to provide weaponry to the Gharve army on the frontier of the battlefield. Since peace has been brokered between the two nations, though, there has been very little demand for mastercraft weapons or armor, and his business has transitioned into servicing the needs of the busy port.
+
+Though the work is hardly stimulating, it is plentiful and demanding. As such, Gil has hired on help from a journeyman smith named [[Enrique Bello]] and a laborer [[Ximen Herera]].
+
+Martelo de Fusão has a full stock of tools, hardware and other metal instruments. Gil keeps a stock of rudimentary weaponry, which is often purchased by adventurers setting off to sea, but anything beyond that would need to be forged by special commission.
