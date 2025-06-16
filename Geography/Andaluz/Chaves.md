@@ -1,0 +1,1 @@
+A walled fort city on the frontier border between [[Andaluz]] and [[Gallacão]]. The walled city was constructed in a time of war and has endured countless attacks.
