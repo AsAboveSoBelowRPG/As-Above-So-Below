@@ -1,0 +1,1 @@
+Nymphs are an order of [[Gods|Goddess]] that exist primarily as rivers; often in relationship with a partner [[Naiad]], [[Nereid]] or even forming a relationship between three.
