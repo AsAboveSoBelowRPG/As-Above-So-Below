@@ -1,0 +1,1 @@
+Jouabar, a small settlement nestled in the Ardmal Dunes. This quiet location enjoys proximity to the Sedazul without being a part of it. Jouabar is famous for its ornate pottery.
