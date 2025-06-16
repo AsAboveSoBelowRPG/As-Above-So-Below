@@ -1,0 +1,13 @@
+Gallacão is the northernmost of the Five Kingdoms, sharing borders along the southwest with [[Iberys]] and in the southeast with [[Andaluz]]. Along the northern border, Gallacão abuts the mythical land of [[An-Talamh]], though efforts to explore the territory north of the [[Kasmanium Range]] have been unsuccessful.
+
+The capital city, [[Salasandra]], is a massive fortified castle along the southern frontier. During wartime, this was a strategic position that allowed the realm to defend against the combined efforts of both the adjoining cultures. As such, Salasandra is heralded across the realms of man as a masterpiece of defensive engineering, in great part due to the [[Muralha]] that extends across the border from the eastern shore to the wetlands of [[Ranunculus]].
+
+Owing to the natural fortitude of the geography of the land, Gallacão is the oldest of the five kingdoms of man, having largely retained the same borders since its founding at the dawn of the third age; 3'182. With the Kasmanium Mountains forming an impenetrable barrier along the nation's eastern coastline, and the marshlands marking a difficult crossing in the West, [[Rei Eldo I]] engineered the fortress city of Salasanda, expanding its massive walls across the vulnerable point of his kingdom, effectively walling the realm off from the rest of the continent.
+
+# History
+
+During the Second Age, the land largely occupied by Gallacão was home to a tribe of [[Tuatha]] called the [[Caeleisão]]. The oldest evidence of these people is the ruin of [[Galego]], a massive stacked-stone cromlech in [[Serra Pravat]], the southernmost peak in the Kasmanium Range. Architecture in the coastal marshland of [[Oppida]] suggests that as the tribe grew, there was a diaspora that led the culture to spread from the mountains to the coast, and from there, following natural and carved paths, settled the whole of the range.
+
+After the [[Treaty of Oisín]] banished the elder races to either the [[Cthonic Remains]] or the land of [[An-Talamh]], the indigenous people of Caeleisão quietly vanished from the land, leaving very little evidence of their custodial care of the land for thousands of years during the Second Age. As such, little is known about them or their culture, and much of what is known is speculative at best, including the existence of a pre-dwarven culture known as the [[Vanda]], believed to have co-existed, pre-dated or simple to have been the native term used by the inhabitants to refer to their people.
+
+Cleared of the original inhabitants, the dawn of the Third Age saw massive settlement of the region starting in the south and progressing northward along the [[Kasman Road|ancient roads]] laid out by the Tuatha. 
