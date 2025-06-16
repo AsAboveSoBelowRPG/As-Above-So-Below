@@ -1,0 +1,1 @@
+Often referred to as *The Earth's Maw*, Bocaterra is a a massive canyon that skirts the base of the [[Cinturão Divino]]. The difficulty of traversing the terrain has left it largely unexplored by the modern society. The vastness of the Bocaterra spans three of the five kingdoms of man: [[Umayyad]], [[Andaluz]] and [[Iberys]].
