@@ -1,0 +1,1 @@
+Less a city in a traditional sense and more a cultural collective, Bartica is composed of a number of dens burrowed into the sides of the rolling flagstone hills of Eastern [[Andaluz]].
