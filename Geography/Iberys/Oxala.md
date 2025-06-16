@@ -1,0 +1,1 @@
+A large, ancient citadel looms over this beautiful city shrouded by the [[Amoreira Forest]].
