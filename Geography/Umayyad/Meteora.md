@@ -1,0 +1,1 @@
+The city of Meteora sprung up in the impossible landscape of the [[Lança Gêmea]]. Temples are perched atop the many natural spires.
