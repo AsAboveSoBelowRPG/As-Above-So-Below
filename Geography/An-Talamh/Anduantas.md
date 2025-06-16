@@ -1,0 +1,1 @@
+Though few know the exact location of this fabled settlement, Anduantas is the seat of Elvish culture, and as close as a 'capital' of An-Talamh as the nation knows. Legend says, if you haven't been invited, you'll never find the location of this town.
