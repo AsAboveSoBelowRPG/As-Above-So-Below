@@ -1,0 +1,1 @@
+Baedi is a sprawling city known, currently, as an important stop on Umayyad's Rua Sedazul trade route. Despite its current function, Baedi originally developed around a now-forgotten religious artifact.
