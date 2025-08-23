@@ -10,20 +10,28 @@ The relations of Gods are best understood by grouping them into Pantheons, which
 ## Primordial Gods
 The oldest pantheon of Gods in Amalthea are referred to as [[Primordial Gods]], which came into being by the shattering of the Divine Unity at the dawn of the [[Time of Chaos]]. These Gods ruled over vast dominions, as most of the world had yet to come into being. The two most powerful Gods of this age were [[Smoladh]], the God of Darkness who sought to rule the realms both above and below by wedding the Goddess of the sky. Sequestering the rest of the Primordials in the [[Cthonic Remains|Cthonic Realm]] beneath the surface where his influence was strongest. Some of the most prominent Primordial Gods are:
 
-- [[Smoladh]]; God of Darkness, ruler of the underworld.
-- [[Éachtach]]; Firstborn of Smoladh, the God of Death who finally ended the suffering of the wounded [[Gréine]].
+- [[Anaithnid]]; The Goddess of shadows, illusion and secrecy.
 - [[Anallód]]; Second son of Smoladh, the God of Time.
 - [[Anordú]]; The third of the [[Primordial Blights]] and favored son of Smoladh, God of Violence.
+- [[Bádóir]]; The fickle God of the Sea and Storms.
+- [[Éachtach]]; Firstborn of Smoladh, the God of Death who finally ended the suffering of the wounded [[Gréine]].
+- [[Fuaire]]; The icy goddess of winter and cold; longs to rule the surface once more.
+- [[Smoladh]]; God of Darkness, ruler of the underworld and King of the Primordial Gods.
+- [[Tharéis]]; The Goddess of judgement and keeper to the gates of the afterlife.
 - [[Xadul]]; Primordial god of Chaos, said to have been the one to shatter the Divine Unity.
 
 ## The Danu
 Lead by the twin children of [[Sadhbh]], the Lighbringers, the [[Danu]] overthrew the tyrannical rule of the Primordials and brought light to the world. During the rule of the Danu, the world was ushered into the Second Age, or [[The Common Light]]. It was also during their reign that the [[Tuatha]] came into being.
 
-- [[Nuaré]]; The Twin of the Moon, elder sibling of the Lightbringers who banished their oppressor [[Smoladh]] to the realm beyond the sky.
+
 - [[Bánsolas]]; The Twin of the Sun, only daughter of [[Sadhbh]]. 
-- [[Matórm]]; the god of masculinity. His entitlement and strength often leads him to take what he wishes by force or through deception. It is said that those who wrestle with him are to be blessed with uncanny strength.
-- [[Raidhse]]; the goddess of Nature.
 - [[Bástea]]; the goddess of Rain and mother of the [[Nymph]], [[Naiad]] and [[Nereid]]. One of the few gods capable of travelling freely between the realm of the sky, the terrestrial world and the [[Cthonic Remains]]; often serves as a messenger between the various pantheons.
+- [[Gustalach]]; The vibrant god of Trade and commerce; the patron of the Merchant.
+- [[Matórm]]; the god of masculinity. His entitlement and strength often leads him to take what he wishes by force or through deception. It is said that those who wrestle with him are to be blessed with uncanny strength.
+- [[Mona]]; Goddess of Luck, Fortune and wealth; patron of the Gambler.
+- [[Nuaré]]; The Twin of the Moon, elder sibling of the Lightbringers who banished their oppressor [[Smoladh]] to the realm beyond the sky.
+- [[Raidhse]]; the goddess of Nature, balance and forestry.
+- [[Tuaslagadh]]; The God of Poison, disease and medicine; patron of the alchemist.
 - [[Ulliam]]; the God of music. Oldest son of [[Fedelm]].
 
 ## Celestial Gods
@@ -31,23 +39,34 @@ When the [[Divine Unity]] shattered, some of the shards were scattered deep into
 
 These astral beings cared for [[The Lightbringers]] when [[Sadhbh]] hid them in the sky realm.
 
-- [[Gréine]]; God of the Sun, slain by the Primordial Smoladh.
-- [[Sadhbh]]; Goddess of the Sky, forced to wed Smoladh after the defeat of the Sun.
+- [[Diabhal]]; God of the Harvest and Agriculture, the patron of the humble farmer.
 - [[Fedelm]]; the Goddess of prophecy. She has seen the beginning and the end of all known realms.
+- [[Geasa]]; The Goddess of magic and impossibility. Beloved of the Magicians.
+- [[Gréine]]; God of the Sun, slain by the Primordial Smoladh.
+- [[Leabhar]]; The Sacred Scribe, the God of writing and communication.
+- [[Liodora]]; Staunch and serious, Liodora is the goddess of Law, Order and Politics.
 - [[Priosma]]; Goddess of rainbows and reflection; said to be an artisan of light, able to weave it as a seamstress works fabric.
+- [[Sadhbh]]; Goddess of the Sky, forced to wed Smoladh after the defeat of the Sun.
+
 
 ## Elemental and Rustic Gods
 During [[The Common Light]] many divine beings were born across Amalthea. Orders of elemental gods sprung up to bring life and beauty to the world; [[Nymph|Nymphs]], [[Naiad|Naiads]] and [[Nereid|Nereids]] brought water to the world, the [[Dryad|Dryads]] saw the world bloom and flourish. Some important Rustic Gods include:
 
-- [[Aislinn]]; known as *The Prudent Mother*, Aislinn is a Naiad so beautiful that she drew [[Nuaré]] from his heavenly throne, and together they gave birth to the [[Tuatha]].
-- [[Slint]]; Chaotic *God of Indulgence* that is worshipped by those who have a lust for life.
+- [[Aislinn]]; known as *The Prudent Mother*, Aislinn is a Naiad so beautiful that she drew [[Nuaré]] from his heavenly throne, and together they gave birth to the [[Tuatha]]. She is the goddess of love and beauty.
+- [[Carnun]]; The Huntress of the Lands is the patron of hunters and beasts.
+- [[Duine]]; The joyous goddess of celebration and gatherings.
+- [[Nimhono]]; The valorous God of triumph, combat and competition.
 - [[Silhit]]; the playful Naiad that brings water to the spring at the center of the remote village of [[Moradu]].
+- [[Slint]]; Chaotic *God of Indulgence* that is worshipped by those who have a lust for life.
 
 ## Cthonic Gods
 [[Cthonic Gods]], the children of Darkness, are the offspring of the banished [[Primordial Gods]]. Though these modern Gods largely share their progenitors domain in the underworld, many of them perform duties in the world at large. 
 
-- [[Dagdromen]]; Trickster God of Illusion that often presents those overcome with greed and jealousy a perilous bargain.
+- [[Dagdromen]]; Trickster God of bargains that often presents those overcome by greed and jealousy with a perilous proposition.
 - [[Múnla]]; The God of Decay, who's touch can erode mountains and return the dead to the soil. Largely feared by the living with an unsophisticated understanding of the cycle of life.
+- [[Oíche]]; The Goddess of thievery and shadows, the blessed Goddess of poverty and protector of the slums.
+- [[Ráiméis]]; the warlord god of tyranny and conquest. 
+- [[Spreag]]; The god of invention and craftsmanship.
 - [[Talún]]; the God of Earthquakes and vibration.
 
 # Demigods
@@ -60,5 +79,4 @@ When a God mates with a mortal, their offspring is born in a state between the d
 
 Strangers have found their way to the shores of [[Amalthea]] claiming to be from some foreign land ruled by strange and exotic gods who have yet to hold dominion in the known land. These people are often dismissed as being mad, being mistaken in their understanding or even of being intentionally deceptive, however, some have come bearing evidence of unknown cultures, lands and practices.
 
-Some of these foreign gods are:
-- Torm; a foreign god thought to be a mispronunciation of the name of the god [[Matórm]].
+It is most often assumed that, if other lands exist outside of Amalthea, that they are ruled by the same Gods, just known by different names. Over time, there have been enough stories from wayward travelers to compile a complete list of [[Known Aliases]].
