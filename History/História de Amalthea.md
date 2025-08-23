@@ -20,7 +20,7 @@ The second age is thought to have lasted approximately 26,000 years, beginning a
 
 The third age, our modern times, are defined by the rise of the [[Five Kingdoms of Man]] and the legacy of war that went into defining those boarders. Without the guidance of the [[Tuatha]] and the Elder Races
 
-- 3'071 - Destruction of [[Castelo Corajoso]] by the [[Cthonic Gods|Cthonic]] [[Nazerack]].
+- 3'071 - Destruction of [[Castelo Ayodar]] by the [[Primordial Gods|Primordial]] [[Nazerack]].
 - 3'075 - [[Ordem Etérea]] officially dissolves after the death of [[Afonso Roche]].
 - 3'209 - Foundation of the [[Ordem de Reparação]].
 - 3'1038 - Peace established between the kingdoms of [[Gharve]] and [[Umayyad]].
