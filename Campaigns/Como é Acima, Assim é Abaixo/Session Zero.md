@@ -1,5 +1,5 @@
 ---
-"publish:": "false"
+"publish: false":
 ---
 
 > *Along the southern coast of the continent of [[Amalthea]], the ancient city of [[Porto Coelbren]] is poised to become a new hub of trade and prosperity for the kingdom of [[Gharve]]. Though the city has been renovated for the modern age, the history lurking below the surface threatens to shatter the future of this seaside paradise.*
