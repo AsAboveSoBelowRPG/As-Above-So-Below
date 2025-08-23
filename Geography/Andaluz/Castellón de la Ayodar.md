@@ -1,3 +1,0 @@
-The humble fortified capital of Southern [[Andaluz]], Ayodar sits secluded from the rest of the world - nestled between the [[Nirasae]] ocean and the [[Bocaterra]]; the Earth's Maw. For centuries, Ayodar was home to the noble Roche dynasty, which ended when [[Afonso Roche]], leader of the [[Ordem Etérea]] was presumed to have died during the Order's final task.
-
-With the last heir deceased, Ayodar fell into a state of disrepair, and was all but forgotten until the [[Ordem de Reparação]], the spiritual successor to the Etérea, claimed it as their headquarters and restored the castle to its former glory; even building additional wings to suit the needs of the guild.
