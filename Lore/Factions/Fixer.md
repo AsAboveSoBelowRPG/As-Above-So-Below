@@ -2,7 +2,7 @@ A Reparadore, or as they're more commonly known, a **Fixer**, is a type of freel
 
 # Origins
 
-Fixers first start to appear in literature around the start of the Third Age as a sort of colloquialism for monster hunters that solve or 'fix' the problems of a village. This tradition, however, traces its origin back to [[The Common Light]] with the fabled [[Ordem Etérea]], a group of knights committed to purging the terrestrial world of the remnants of the [[Luxomachy]]. These knights, which were based out of [[Castellón de la Ayodar]], spread out across the land, stalking and dispatching evils associated with the [[Smoladh]], the lord of darkness.
+Fixers first start to appear in literature around the start of the Third Age as a sort of colloquialism for monster hunters that solve or 'fix' the problems of a village. This tradition, however, traces its origin back to [[The Common Light]] with the fabled [[Ordem Etérea]], a group of knights committed to purging the terrestrial world of the remnants of the [[Luxomachy]]. These knights, which were based out of [[Castellón de la Aragão]], spread out across the land, stalking and dispatching evils associated with the [[Smoladh]], the lord of darkness.
 
 After the [[Treaty of Oisín]] banished the elder races, the order disbanded and retreated to [[An-Talamh]], however, the need for roving protectors to patrol the land remained. A number of members of the order were humans and so remained after the banishment. These people took up the task of hunting monsters and protecting civilization, yet, without an organization to provide for their needs, these services began to come with a cost.
 
