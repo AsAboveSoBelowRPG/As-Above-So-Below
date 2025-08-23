@@ -1,0 +1,7 @@
+A God without a domain or a following, Nazerack is an enigmatic deity that came into being after the shattering of the [[Divine Unity]].  Because its name was seldom referenced outside a few early fables, Nazerack was largely dismissed as either a myth or as a dead god who failed to find a purpose and thus vanished from existence.
+
+This theory was laid to rest in the year 3'071 when a wicked demigod [[Zyweith the Hollow]] called down the [[Primordial Gods|Primordial]] from the void of the heavens. Accounts from those who witnessed the descent from as far away as [[Salasandra]] claimed that the body blocked the sun from the sky, and the collision it made when it struck the earth was felt as far away as [[Porto Coelbren]].
+
+While few were close enough to witness the event and survive, members of the Cartographer's Guild who surveyed the area in the days following reported that [[Castelo Ayodar]] had been entirely annihilated; leaving only a massive hole where it once stood. Subsequent earthquakes and landslides from the unstable geography eventually filled in the pit, and a lake now covers the alleged site of the incident.
+
+Since that brief encounter, no one has seen Nazerack again. So much time has elapsed that many call the sighting into question, and the God has, again, slipped into a place of mythological consideration.
