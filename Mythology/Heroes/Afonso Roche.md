@@ -1,4 +1,4 @@
-Sr. Afonso Roche was instrumental in the foundation of the kingdom of [[Andaluz]], and served as the last living member of the [[Ordem Etérea]]. He died at the age of 424, and a monument was constructed in [[Castellón de la Ayodar]] in which his remains are to be interred if his body should ever be found.
+Sr. Afonso Roche was instrumental in the foundation of the kingdom of [[Andaluz]], and served as the last living member of the [[Ordem Etérea]]. He died at the age of 424, and a monument was constructed in [[Castellón de la Aragão]] in which his remains are to be interred if his body should ever be found.
 
 # Early Life
 
@@ -12,7 +12,7 @@ Within a decade, after working tirelessly to safeguard the fledgling villages of
 
 # Foundation of Andaluz
 
-As humanity struggled to forge borders and balkanize kingdoms, [[Rei Axleiro I]] was attempting to establish his territory. Already commanding the [[Castanha Prairie]], he wished to push the borders further afield, with his sights set on the [[Cinturão Divino]]. With [[Castellón de la Ayodar]], headquarters of the order, situated in this region, he made an accord with Afonso to ally with him against [[Malik Amira An-Amir]] to the south.
+As humanity struggled to forge borders and balkanize kingdoms, [[Rei Axleiro I]] was attempting to establish his territory. Already commanding the [[Castanha Prairie]], he wished to push the borders further afield, with his sights set on the [[Cinturão Divino]]. With [[Castellón de la Aragão]], headquarters of the order, situated in this region, he made an accord with Afonso to ally with him against [[Malik Amira An-Amir]] to the south.
 
 Through his extensive network in the Order, he was able to successfully defend the southern frontier, and, through a diplomatic alliance with the orcs of the Cinturão, secured - not only the mountains - but the land between the range and the [[Bocaterra]], promising this land to the foundation of the orcish capital of [[Lutadora]].
 
