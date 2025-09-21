@@ -32,6 +32,8 @@ Exploring the compartments of the ship introduced the team to a number of unusua
 
 In flesh and blood, the group came upon a couple who graciously invited them to join them in their private lounge. These two introduced themselves as [[Salvadaro Harbin Glumbo]] and [[Magdalena Isabel A'Dora Glumbo]] - The Lord and Lady of the land. Sal explained that it was through his will and magic that the land of [[Mag Duinn]] took shape; transforming it from a cruel and brutal land of darkness, to a whimsical playground of delight beneath the mortal world.
 
+![[cards.png]]
+
 While they were enjoying the company, Magda did a tarot reading for the group, which seemed to foretell a great journey ahead. Lord Elgar pulled the card of **The Fool**, seeming to suggest he walks unaware and unharmed through perilous situations. Ernie was the next to pull, drawing the **Wheel of Fortune** card, which represented an upcoming change as a result of choices already made. The next to draw was Kadav, who excitedly pulled **The Lovers** from the deck; Magda insisted that someone who recently entered Kadav's life will turn their entire world upside down in due time. He was quick to remark that the couple pictured on the card resembled Sal and Magda. Last to pick a card was Svorcra, who drew **The Chariot**, foretelling of a struggle between imprisonment and freedom. The group kept the cards as a keepsake of their reading and a reminder of their future; of the struggle and prosperity to come.
 
 ![[shade_performance.png]]
