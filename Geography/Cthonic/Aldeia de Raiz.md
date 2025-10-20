@@ -1,0 +1,3 @@
+Aldeia de Raiz, or more commonly known simply as Raiz, is a large village in the center of the [[Cthonic Remains|Cthonic]] realm of [[Mag Duinn]]. Like much of the realm, Raiz is largely sheltered from the world around it by the dangerous wilds that surround it, making travel in and out of the village rather dangerous. 
+
+Raiz sits in the Vale de Raiz, a long valley that  stretches longitudinally across central Mag Duinn, occupying a relatively lovely and fertile area. 
