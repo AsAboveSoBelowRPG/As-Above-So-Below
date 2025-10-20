@@ -1,0 +1,5 @@
+The Mycelial Thread is a fringe cult that deviated from the old ways of [[The Ashen Bough]] that posits that the goddess [[Nespera]] is dead, and that nature has become a force of evil in her absence. 
+
+It is the belief of the cultists that, through the perversion of nature and with great sacrifice, the Goddess can be reborn to, once more, hold authority over the underworld realm of [[Mag Duinn]]. How they intend to do this is unknown, as the cult holds their secrets closely, though it is rumored that they have powerful leadership.
+
+Talk of the Mycelial Thread has become akin to the fiction of an urban legend; a cautionary tale to frighten people into devotion to the Old Ways, though, with darkness beginning to eclipse reason in the land, people are beginning to take these stories more seriously.
