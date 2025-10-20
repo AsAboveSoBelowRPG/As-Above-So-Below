@@ -42,9 +42,25 @@ Also in the lounge, Ernie and Kadav became invested in the personal struggle of 
 
 ![[fatfrog.png]]
 
-In the dining hall, the team was enchanted to find that any food they imagined would materialize before them, and spent some time envisioning strange meals before heading into the banquet hall. Here, they found the shade of a child who was eating an endless buffet to try to sate the guilt they carried over the theft of his friend's coveted pet toad. Unfortunately he died before he could return the amphibian, and since boarding O Nazerack Expresso, has lost the toad he longs to return to it's owner. Though the group tried materializing a replacement toad on the dinner plates, they were unsuccessful in wrangling a proper replacement.
+The group continued to explore the ship, finding lost souls that needed help in moving on. They provided a final meal for a man executed before his last supper; they evoked the spirit of the sea for an old sailor by regaling him with a sea chanty; they attempted to help the shade of a clown who let loose a terrible beast and, while they successfully recaged the monster, the clown was slain. Eventually they even managed to retrieve the boy's lost toad.
 
-In the mail compartment, the group found stacks of old correspondences destined never to find their intended recipients. A Grimpa Gloompa futilely busied himself moving sacks of mail from one table to another without any real purpose, and inside the office they found an old captain whimsically lost in his desire to once more see the ocean. Cursed to sail for eternity on a ship without being able to see the sea is a curse heavier than he could bear. In front of him a pink envelope that stood out amongst the other yellowed and faded missives. The group decided to leave him to wallow in his regrets.
+During the course of this adventure, they happened upon an Orc named  [[Morgamorgar]] who was caged in the back of the ship. As a being of flesh and blood, just as confused as the rest of the group, he decided to join them on their exploration.
 
-In the next compartment, where the luggage was stored, the group encountered another wallowing shade who felt he died without completing his business. This ghost, that of a convict who was executed before he was granted his final meal, suffered from an unending hunger for the steak he was promised. Finding themselves without a juicy steak, Svorcra instead offered them the raw meat he collected from the gore shed when the group assumed their new forms. Though it was a gruesome sight, the meal seemed to satiate the former prisoner, who found he was suddenly ready to disembark from the ship. As he left to speak with the Boatman, the Grimpa Gloompa broke into their sarcastic song mocking the shade.
+## Corruption
+
+Using the intercom, the Boatman called the group to his office, where they found the many shades they helped waiting to make arrangements to disembark. Here, they found that for these spirits, their long journey was at an end. Each of them was fed to the heart of the ship: contained in a bizzarre chamber was the flesh of the God [[Nazerack]], which had infused itself with the inanimate ship. Through the divine gifts of the god, the ship was able to traverse between the [[Upper Sphere]] and the [[Cthonic Remains]].
+
+Unfortunately, as these shades were being consumed, the creeping darkness let in by the grim passenger slid into the chamber, causing the flesh to corrupt. In a panic and rage, the contraption spit out a hemorrhage that took shape as a blood dragon. Though this apparition was easily dispatched, the raging heart of the ship could not be calmed, and the ship crashed into a densely wooded area.
+
+![[heart_battle.png]]
+
+With [[O Nazerack Expresso]] destroyed, the heart of the God was freed at last and the group had to defend their lives against its rampage. The struggle was intense and, for Ernie, nearly deadly. While each of the adventurers gave everything they had to overcome the divine flesh of a god, Svorcra was able to finish the monster off with his dark blood magic.
+
+As the blood of the devastated monster splashed across the face of Elgar's tarot card, it magically transformed into a [mysterious artifact](https://www.dndbeyond.com/magic-items/10241416-whistle-of-the-vagrant-2). 
+
+## Resolution
+
+Finding themselves stranded in an unknown woodland, the group consulted with [[Salvadaro Harbin Glumbo|Sal]] who said he believed they were only a stone's throw from the village of [[Aldeia de Raiz]]. [[Magdalena Isabel A'Dora Glumbo|Magda]] reminded Sal that the mayor had, some years ago, dedicated a mansion to them should they ever wish to visit. Though they hadn't, made the journey, the couple seemed optimistic that they would be welcomed warmly regardless.
+
+There was a moment of concern when Sal attempted to use his godlike powers to conjure a wagon for the group, but was unable to tap into his abilities. Shrugging it off as trauma from the crash, they resolved to walk to town the old fashioned way.
 
