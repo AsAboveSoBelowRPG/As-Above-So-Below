@@ -1,0 +1,7 @@
+The Children of the Flame are a fringe monotheistic religion observed in the [[Cthonic Remains|Cthonic]] realm of [[Mag Duinn]]. In opposition to the more traditional Old Ways of [[The Ashen Bough]], the Flame sees the desperate state of their realm as a punishment for some long-forgotten sin. They believe that Mag Duinn is a prison of darkness into which they had been cast for crimes committed in ancient times by their forebearers. 
+
+Those who follow the Flame, known colloquially as Sparks, seek to restore light to the land - hoping that the beacon will attract the attention of their sole deity, a Goddess called [[Tristeza]]. It is taught that this Goddess, if appeased, will return the people of Mag Duinn to the surface where they can live under the sky again.
+
+Relatively speaking, this religion is new to the lands and hasn't begun to take root. The cult has spread primarily through the endeavors of pilgrim missionaries who have taken to bringing the word of the Flame to the harsh land.
+
+While this religion stands in stark opposition to the Old Ways, the message of salvation appeals to a number of citizens in the realm, and as such, has converted many to their ways. They are more welcome in some regions than others; while most communities are unthreatened by differing religious beliefs, others find it profane. As such, those travelling preachers have to move with caution through the various villages.
