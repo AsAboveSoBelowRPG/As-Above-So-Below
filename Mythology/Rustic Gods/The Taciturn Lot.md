@@ -1,0 +1,3 @@
+'The Taciturn Lot' began as a derogatory term for the agnostics and atheists in the land of [[Mag Duinn]]. These people favor logic above blind faith and, having observed the state of the lands, believe that there is an absence of divinity. Rather than finding the term insulting, these rationalists rallied behind the term and adopted it in spite of the followers of [[The Ashen Bough|The Old Ways]].
+
+While not an organized movement by any means - these people don't seek to disprove the beliefs of others - they do favor the company of others who see the world as they do. 
