@@ -1,0 +1,5 @@
+The Hollow Antler is an Inn and Tavern located in the village of [[Aldeia de Raiz]], and is operated by [[Anna Leandro]]. While it typically sees more business as a tavern, the building does host two communal rooms, each with two beds. These beds can be rented for either two or five gold per night, depending on which room.
+
+The crowned jewel of the space is the stage that sits in the middle of the dining room - every night there is live music, typically Fado singing by the talented young [[Branca Alvarado]]. Mayor [[Rodrigo De Maya]]'s daughter [[Julia De Maya|Julia]] tends the bar. Both draw large crowds of people who desire to be in the presence of these beautiful young women.
+
+The inn was tangentially involved in a small scandal when the janitor [[Jose Sujeira]] was [[The Murder of Jose Sujeira|found dead]] in the village square outside the business. A [[AAA Fixers For You|group of investigators]] rented the rooms while they investigated the crime. Neither the Hollow Antler or Anna were implicated in the murder.
