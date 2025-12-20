@@ -8,7 +8,7 @@ While it seems that nearly anyone could have found reason to want this despicabl
 
 ## Joao De Pedra
 
-Being an outsider already sets under suspicious eyes, but it didn't help that Joao was also Jose's landlord and was known to be having a conflict with the man over back rent, and for attempting to pawn his tools to [[Gabriel Cardoza]] only a few nights prior.
+Being an outsider already set Joao under suspicion, but it didn't help that Joao was also Jose's landlord and was known to be having a conflict with the man over back rent, and for attempting to pawn his tools to [[Gabriel Cardoza]] only a few nights prior.
 
 ## Vicente Anbrosio
 
@@ -28,7 +28,7 @@ The oldest man in the village, Boothby is an eccentric mute who the village look
 
 # Other Theories
 
-While speaking with the 'Unofficial Leader', the barber surgeon [[Gilherme Amêijoa]] presented the group with an interesting theory that may carry some weight. Apparently, the murder took place the night before an inauspicious night: a cycle of murders that occurs every 80 years.
+While speaking with the 'Unofficial Leader', the barber surgeon [[Gilherme Amêijoa]] presented the group with an interesting theory that may carry some weight. Apparently, the murder took place the night before an inauspicious occasion: a cycle of murders that occurs every 80 years.
 
 Gil presented a theory that, perhaps the murder is associated with the grim slayings that happened nearly a century ago - [[The De Cabra Murders]]. While his proposal would require a supernatural evil to be the cause of the death, there are certainly less improbable things that the group had encountered together. The facts of this cycle of slayings was later validated by [[Inez Celezia]], the town's antiquarian and historian.
 
