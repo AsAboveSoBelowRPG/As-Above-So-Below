@@ -17,4 +17,4 @@ Upon inviting the group into the manor, she extends an offer to them - become 'a
 
 She gave the group an axe and invited them to explore the manor if it would aid in their 'investigation', and she assured them that they'd eventually come around to helping her. She retreated to the second floor while the others explored the rooms of the first floor.
 
-As of yet, she has made no signs of aggression towards the group.
+When the group rejoined her in the upstairs sitting room, she offered them fine wine and good company, again, doubling down on trying to convince the party that they ought to take part in her grim pageant. Still uncertain as to whether she could be trusted, no one committed to her scheme, nor did they initially accept her gruesome weapon - an executioner's axe. They would again encounter Theda while exploring the third floor trophy room; again imploring the group to join her cause. This time she was less patient, but still left the group to explore at their own pace.
