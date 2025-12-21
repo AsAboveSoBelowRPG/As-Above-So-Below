@@ -1,3 +1,30 @@
-Aldeia de Raiz, or more commonly known simply as Raiz, is a large village in the center of the [[Cthonic Remains|Cthonic]] realm of [[Mag Duinn]]. Like much of the realm, Raiz is largely sheltered from the world around it by the dangerous wilds that surround it, making travel in and out of the village rather dangerous. 
+Aldeia de Raiz, or more commonly known simply as Raiz, is a large village in the center of the [[Cthonic Remains|Cthonic]] realm of [[Mag Duinn]]. Like much of the realm, Raiz is largely sheltered from the world by the dangerous wilds that surround it, making travel in and out of the village rather dangerous. 
 
-Raiz sits in the Vale de Raiz, a long valley that  stretches longitudinally across central Mag Duinn, occupying a relatively lovely and fertile area. 
+Raiz sits in the Vale de Raiz, a long valley that  stretches longitudinally across central Mag Duinn, occupying a relatively lovely and fertile area. For being as small and isolated as it is, Raiz has a surprisingly robust population and economy. With **over fifty residents** and a number of steady businesses, Raiz seems to not only survive, but thrive despite the challenging environment.
+
+In the past, the Aldeia was run by a committee of elders, though this system was abandoned when there were fewer volunteers to accept the responsibility. Instead they shifted to mayoral representation, a position that has carried through the De Maya family for three generations - currently held by [[Rodrigo De Maya]]. He runs unopposed every four years.
+
+# Local Businesses
+
+- **Tabacaria Cabina:** [[Gabriel Cardoza]] runs a small **general store** that specializes in fine tobacco blends and rare items sourced from all over the realm. While most of his sales in the Aldeia itself are food or simple survival needs, he is constantly conducting business with wealthy clients outside of the village, and thus has caravans coming and going constantly.
+- **The Hollow Antler:** One of the larger buildings in Raiz hosts the **village inn and tavern**. While there are rarely travelers passing through the village, the rooms for rent are often vacant. However, the tavern is a village hub, often packed by locals who come for a hot meal, a strong drink and the live music. The Antler is run by [[Anna Leandro]].
+- **Arquivo do Vale:** A curious **bookshop** run by an antisocial antiquarian named [[Inez Celezia]]. Much to the mayor's displeasure, the Arquivo is a greater source than even the village's official records, and those looking for answers tend to seek Inez rather than official sources. Despite her incredible stock, she often refuses to part with her rare tomes. Its uncertain how she stays in business.
+- **A Padaria «Últimos dias»**: The **bakery**, run by [[Graça Laranja]] - a third generation baker -keeps the entire village well fed. In a place where most can only afford to eat bread, the bakery is the most important business in the village.
+- **O Talho do Veado Branco:** Adjoining the bakery is the village **butcher**, [[Francisca Sorvilhas]]. She sources wild game from the surrounding [[Outlands]] and farm-raised beef and mutton from the nearby village of [[Aldeia de Espiga]].
+- **«Bigorna de Ferro»**: The **blacksmith** [[Joao De Pedra]] is a relative newcomer, but the quality of his craftsmanship has made his shop an important part of the local economy. While he mostly only has cause to craft simple tools and fixtures, he has a number of weapons in stock for those who require protection.
+- **Boticário «Aconitum»:** The village **apothecary** is run by a peculiar young man named [[Ivan Morgan]]. Despite his eccentricities, he serves the village by mixing poultices and potions using herbal folklore passed down through the generations - however, Van has no recollection of his past, so where he learned this trade is a mystery even to him.
+- **O Carpinteiro «Lenha»:** On the edge of town is a small workshop run by a family of skilled **carpenters**. Capable of fabricating anything from wagons to bookshelves, [[Castelhana Dias]] and her children are masters of their craft; however, their adherence to a [[The Children of the Flame|radical new faith]] has given many who follow the [[The Ashen Bough|old ways]] pause about enlisting her help.
+- **Casa das Velas**: [[Gomes Monte Arroio]] is a **candlemaker** who took up the craft after an accident left him nearly crippled. He uses the fat from the butcher shop to make candles, many of which he donates to rituals of The Ashen Bough.
+- **Sew Buttons**: A gifted tailor
+
+
+# Other Services
+
+- **Barbeiro da Misericórdia**: Serving as the village barber and surgeon, [[Gilherme Amêijoa]] is known as the 'face of the village'. Whether someone needs a tooth pulled, a haircut or serious stitches, Gil is always available day or night to serve the community.
+- **Correios**: Due to its central location in [[Mag Duinn]], it was the most logical location to establish the primary hub for the mail delivery service in the realm. Outside of [[Scathanna]], it is the largest and busiest office, which is operated by the postmistress [[Angelina Pombo]].
+- **Primary School:** A rudimentary school house is funded by village taxes and serves to educate the youth of the village. While many children attend in their youth, most eventually drop out to take lucrative positions at The Hollow Antler. Despite the alure of steady pay, [[Bernalldo Allpoem]], the teacher, rallies hard to keep the children in attendance.
+- **Cerimónias de Passagem:** Death is a common occurrence in Mag Duinn, and with the [[Cemitério dos Prazeres]] nearby, Raiz is a destination for the dead. [[Bautista Marques]] opened her mortuary in Aldeia de Raiz against the wishes of the locals, and has been a social outcast ever since.
+
+# Law Enforcement
+
+The citizens of Raiz are primarily adherents of [[The Ashen Bough|The Old Ways]], and, as such, the village upholds the tenets of the faith as their guiding laws. Since the village was incorporated, it has followed The Ninefold Path strictly. Even as alternative faiths have emerged in Mag Duinn, the law still follows these guiding truths strictly. The constable [[Margarida Gomez]] and her deputy [[Vicente Anbrosio]] have been appointed by the mayor to keep the peace - a position that is largely interpretive and conducted within the spirit of the law rather than by a strict written code.
