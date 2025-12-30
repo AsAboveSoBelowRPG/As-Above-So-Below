@@ -23,7 +23,7 @@ In the past, the Aldeia was run by a committee of elders, though this system was
 - **Barbeiro da Misericórdia**: Serving as the village barber and surgeon, [[Gilherme Amêijoa]] is known as the 'face of the village'. Whether someone needs a tooth pulled, a haircut or serious stitches, Gil is always available day or night to serve the community.
 - **Correios**: Due to its central location in [[Mag Duinn]], it was the most logical location to establish the primary hub for the mail delivery service in the realm. Outside of [[Scathanna]], it is the largest and busiest office, which is operated by the postmistress [[Angelina Pombo]].
 - **Primary School:** A rudimentary school house is funded by village taxes and serves to educate the youth of the village. While many children attend in their youth, most eventually drop out to take lucrative positions at The Hollow Antler. Despite the alure of steady pay, [[Bernalldo Allpoem]], the teacher, rallies hard to keep the children in attendance.
-- **Cerimónias de Passagem:** Death is a common occurrence in Mag Duinn, and with the [[Cemitério dos Prazeres]] nearby, Raiz is a destination for the dead. [[Bautista Marques]] opened her mortuary in Aldeia de Raiz against the wishes of the locals, and has been a social outcast ever since.
+- **Cerimónias de Passagem:** Death is a common occurrence in Mag Duinn, and with the [[Cemitério dos Prazeres]] nearby, Raiz is a destination for the dead as much as it is for the living. [[Bautista Marques]] opened her mortuary in Aldeia de Raiz against the wishes of the locals, and has been a social outcast ever since. Though working with the dead is taboo, it is a duty she carries with dignity and care.
 
 # Law Enforcement
 
