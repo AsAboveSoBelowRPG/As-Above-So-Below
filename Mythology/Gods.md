@@ -25,7 +25,7 @@ Lead by the twin children of [[Sadhbh]], the Lighbringers, the [[Danu]] overthre
 
 
 - [[Bánsolas]]; The Twin of the Sun, only daughter of [[Sadhbh]]. 
-- [[Bástea]]; the goddess of Rain and mother of the [[Nymph]], [[Naiad]] and [[Nereid]]. One of the few gods capable of travelling freely between the realm of the sky, the terrestrial world and the [[Cthonic Remains]]; often serves as a messenger between the various pantheons.
+- [[Bástea]]; the goddess of Rain and mother of the [[Nymph]], [[Naiad]] and [[Nereid]]. One of the few gods capable of travelling freely between the realm of the sky, the terrestrial world, the abyssal depths and the [[Cthonic Remains]]; often serves as a messenger between the various pantheons.
 - [[Gustalach]]; The vibrant god of Trade and commerce; the patron of the Merchant.
 - [[Matórm]]; the god of masculinity. His entitlement and strength often leads him to take what he wishes by force or through deception. It is said that those who wrestle with him are to be blessed with uncanny strength.
 - [[Mona]]; Goddess of Luck, Fortune and wealth; patron of the Gambler.
