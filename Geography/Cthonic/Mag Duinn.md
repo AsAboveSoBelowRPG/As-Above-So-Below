@@ -1,6 +1,6 @@
 ![[magduinn.png]]
 
-Mag Duinn is a subterranian realm within the [[Cthonic Remains]]. While it has existed since the [[Time of Chaos]], the realm was changed irreparably when it was invaded by the [[Cthonic Gods|Cthonic]] [[Nazerack]] during his destruction of the [[Castelo Ayodar]]. Like a pest introducing foreign diseases to an untouched land, the ancient God contaminated this sheltered realm with cultures from the [[Upper Sphere]] and, furthermore, connected it to the greater Remains as it tunneled through. As such, Mag Duinn has become a stopping point for those capable of travelling between the mortal realm and the underworld.
+Mag Duinn is a subterranian realm within the [[Cthonic Remains]]. While it has existed since the [[Time of Chaos]], the realm was changed irreparably when it was invaded by the [[Cthonic Gods|Cthonic]] [[Nazerack]] during his destruction of the [[Castelo Ayodar]]. Like a pest introducing foreign diseases to an untouched land, the ancient God contaminated this sheltered realm with cultures from the [[Surface Layer|Upper Sphere]] and, furthermore, connected it to the greater Remains as it tunneled through. As such, Mag Duinn has become a stopping point for those capable of travelling between the mortal realm and the underworld.
 
 # Culture
 
