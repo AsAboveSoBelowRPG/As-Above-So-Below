@@ -1,12 +1,12 @@
-The Glumbo family settled the [[Serra da Verra Alto]] in northern [[Gallacão]] for countless generations.  In the year 3'1462, Harbin Glumbo founded a small settlement among the ruins of the [[Castelo Corajoso]]. 
+The Glumbo family settled the [[Serra da Verra Alto]] in northern [[Gallacão]] for countless generations.  Around the year 3'055, [[Salvadaro Harbin Glumbo]] founded a small settlement among the ruins of the [[Castelo Corajoso]]. 
 
-The town registry of [[Moradu]] details a lineage of Glumbos that goes back 10 generations; where they came from before that time is unknown, but most of the settlers in the [[Lordless Lands]] came from southern [[Gallacão]], either fleeing war or looking to strike a fortune mining for precious metals in the [[Kasmanium Range]].  Based on his ability and resources to establish a thriving settlement in an inhospitable land, it is believed that Harbin had the backing of an influential benefactor and prior experience in a leadership position.
+The town registry of [[Moradu]] details a lineage of Glumbos that goes back 10 generations; where they came from before that time is unknown, but most of the settlers in the [[Lordless Lands]] came from southern [[Gallacão]], either fleeing war or looking to strike a fortune mining for precious metals in the [[Kasmanium Range]].  Based on his ability and resources to establish a thriving settlement in an inhospitable land, it is believed that Salvadaro had the backing of an influential benefactor and prior experience in a leadership position.
 
-Since Harbin's establishment of Moradu, there has always been a member of Clan Glumbo serving as the elected leader of the settlement.
+Since the establishment of Moradu, there has always been a member of Clan Glumbo serving as the elected leader of the settlement.
 
 # Lineage
 
-Harbin Glumbo, who settled Moradu, had a single son named Brau who also had a single son named Jole. Jole married the daughter of Eronaite Andador, Elyna. This marriage consolidated power in the Lordless Lands, and is considered to be a political union. Records show that Moradu was on the brink of collapse before this marriage was arranged.
+Salvadaro Glumbo, who settled Moradu, had a single son named Brau who also had a single son named Jole. Jole married the daughter of Eronaite Andador, Elyna. This marriage consolidated power in the Lordless Lands, and is considered to be a political union. Records show that Moradu was on the brink of collapse before this marriage was arranged.
 
 Jole and Elyna gave birth to a single son, [[Gaspar the Elder|Gaspar]]. Gaspar begat two daughters, Bonna and Grale, and two sons, Coule and Brushao. It was the youngest, Brushao, who carried the leadership role and furthered the bloodline with the birth of a daughter, Sou, who was born a gifted oracle, and Egídio. Foley and Unar were the sons of Egídio, and his only daughter was Delline, who was a stout warrior and vied for leadership against her brother, though Foley won the election, making Delline the sheriff. 
 
