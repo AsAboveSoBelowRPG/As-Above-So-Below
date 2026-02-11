@@ -35,3 +35,9 @@ Gil presented a theory that, perhaps the murder is associated with the grim slay
 # Dinner with the Glumbos
 
 As it so happened, the group had been invited to dinner on this grim evening, and, considering the timing, decided it might be a good time to go check on their companions. It was at this moment that the group decided to stop in for [[Dinner with the Glumbos]].
+
+Unfortunately, despite their tremendous effort and exceptional valor in the face of the ancient hag, [[Theda Vidigueira]], it appeared that the cyclical murders associated with the D'Albergaria Estate were unrelated to their murder investigation, and when they returned to Aldeia de Raiz, they had to continue their investigation without any new information.
+
+# Cult Involvement
+
+While interrogating the deputy, [[Vicente Anbrosio]], Svorcra discovered that the detained lawkeeper was involved with a sinister cult known as [[The Mycelial Thread]], and had been acting as a courier between the obscured members of the Thread. Lord Elgor believed that an adherent to the old ways may potentially have handed out divine justice according to the doctrine of [[The Ashen Bough]], so the introduction of a competing religious doctrine further muddied the waters.
