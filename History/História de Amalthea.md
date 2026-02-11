@@ -4,11 +4,11 @@ Years are measured first by age, then by the year within, so the year 0'0 would 
 
 # First Age
 
-The first age occupies a dark period of history almost inconceivably deep in the past that all dates listed are strictly hypothetical, and extrapolated from religious texts that are often contradictory. Specific years are to be taken as approximations in this era.
+The first age occupies a dark period of history almost inconceivably deep in the past that all dates listed are strictly hypothetical, and extrapolated from religious texts that are often contradictory. Specific years are to be taken as approximations in this era. This era is known as the [[Time of Chaos]].
 
 # Second Age
 
-The second age is thought to have lasted approximately 26,000 years, beginning after the [[Time of Chaos]] and ending with the modern age.
+The second age is thought to have lasted approximately 26,000 years, beginning after the [[Time of Chaos]] and ending with the modern age. The Second Age is most commonly referred to as [[The Common Light]].
 
 - 2'0155 - Settlement of [[Porto Coelbren]] established.
 - 2'1,503 - Formation of the [[Ordem Etérea]].
@@ -29,3 +29,4 @@ The third age, our modern times, are defined by the rise of the [[Five Kingdoms 
 - 3'2010 - Famous Travelling musicians [[The Flame Stompers]] play their first show in [[Luavila]].
 - 3'2066 - The Anlaith return from exile and declare war on the [[Anduantas]].
 - 3'2071 - Formation of the [[AAA Fixers For You]] band at the Moradu Guild Hall.
+- 3'3237 - Founding of the [[Fellowship of the Seven Petals]].
