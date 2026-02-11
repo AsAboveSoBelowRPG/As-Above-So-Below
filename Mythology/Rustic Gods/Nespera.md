@@ -1,8 +1,8 @@
-Worshiped by the people of [[Mag Duinn]] since the dawn of the First Age, Nespera is a [[Rustic God]] central to what are called "The Old Ways" - a religion called [[The Ashen Bough]].  While she isn't a goddess that directly interacts with her devout, but her influence is felt through natural signs: a good harvest, a prayer answered through circumstantial means, dreams or through ritual evocations.
+Worshiped by the people of [[Mag Duinn]] since the dawn of the First Age, Nespera is a [[Rustic God]] central to what are called "The Old Ways" - a religion called [[The Ashen Bough]].  While she isn't a goddess that directly interacts with her devout, her influence is felt through natural signs: a good harvest, a prayer answered through circumstantial means, dreams or through ritual evocations.
 
 Because she isn't a Goddess that deals directly with people, her representation in art and worship vary from region to region. Often she is depicted in motifs similar to a 'Green Man' - with a feminine face composed of foliage, almost always with leaves or branches protruding from the mouth. Other times people carve visages out of wood; usually very rustic and crude. These are often left in natural environments and shrines are constructed around them.
 
-There are those who argue that Nespera is a vehement goddess that brings as much pain and destruction as she does prosperity - namely a cult named [[The Groundskeepers]] who worship an aspect of Nespera without venerating Her destructive capabilities.
+There are those who argue that Nespera is a vehement goddess that brings as much pain and destruction as she does prosperity - there are also others who insist it is the opposite; namely a cult known as [[The Groundskeepers]] who worship an aspect of Nespera without venerating Her destructive capabilities.
 
 # Daughter of the Pale Blossom
 
