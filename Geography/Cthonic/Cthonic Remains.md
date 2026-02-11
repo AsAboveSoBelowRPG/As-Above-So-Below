@@ -1,5 +1,9 @@
-Before [[The Common Light]], in the [[Time of Chaos]], the [[Primordial Gods|Primordial God]] [[Smoladh]], the Lord of Darkness, built his vast kingdom underground, hidden from the realm of the sky. This grim kingdom was known as the Cthonic Realm.
+After the [[Divine Unity]] was shattered and the [[Time of Chaos]] began, five [[Domains]] were created as the wholeness of the universe unraveled. This expanded outwards from the center, first creating the Cthonic Remains as it continued outwards towards the [[Celestial Sphere]]. This makes the Cthonic realm the oldest of the domains of [[Amalthea]].
 
-After [[The Lightbringers]] [[Nuaré]] and [[Bánsolas]] ushered in [[The Common Light]], the [[Primordial Gods]] sought refuge in the Cthonic ruins where no light could find them, hiding amongst the shadows. Later, after the [[Treaty of Oisín]], many of the elder races also descended to these ruins.
+Before [[The Common Light]], in the [[Time of Chaos]], the [[Primordial Gods|Primordial God]] [[Smoladh]], the Lord of Darkness, built his vast kingdom underground, hidden from the realm of the sky. This grim kingdom defined the Cthonic Realm.
 
-During the Third Age, the Cthonic Remains have become a harbor for vile and wicked beings that emerge in the night to bring pain and sadness to those who dwell under the realm of the sky.
+Many creatures and [[Gods]] call the Cthonic home; the realm is notable for its unique lifeforms known as the [[Dubhaimid]], which are often sited as the first mortal lifeforms. The remains are jointly ruled by the pantheons of the [[Primordial Gods]] who were the first beings to emerge from the Unity, and the [[Cthonic Gods]] who were born of these initial deities.
+
+After [[The Lightbringers]] [[Nuaré]] and [[Bánsolas]] ushered in [[The Common Light]], many of the [[Primordial Gods]] sought refuge in the Cthonic ruins where no light could find them, hiding amongst the shadows. Later, after the [[Treaty of Oisín]], many of the elder races also descended to these ruins.
+
+During the Third Age, the Cthonic Remains have become a harbor for vile and wicked beings that emerge in the night to bring pain and sadness to those who dwell under the [[Realm of the Sky]] on the [[Surface Layer]]. While travel between the Surface and the Cthonic is very difficult and often requires divine intervention. Few Gods are able to freely traverse between the domains, so mortals that are able to move between the realms are exceedingly rare.
