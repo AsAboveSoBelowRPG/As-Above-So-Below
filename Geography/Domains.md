@@ -1,0 +1,6 @@
+![[domains.png]]
+The world of [[Amalthea]] isn't one that exists on a single plain, but is divided into five domains, each loosely associated with a pantheon of [[Gods]] that govern the rule of these different realms. It is better approached as a layered realm divided into five domains: The [[Cthonic Remains]], The [[Abyssal Depths]], The [[Surface Layer]], The [[Realm of the Sky]] and The [[Celestial Sphere]].
+
+These domains were created at the end of the [[Divine Unity]], starting with the cavernous depths of the [[Cthonic Remains]] and expanding outwards into the infinite expanse of the [[Celestial Sphere]].  Though these five layers were created nearly simultaneously as the [[Time of Chaos]] began, it is often a point of pride for denizens of the Cthonic that their realm was the first to develop, and therefore claim it as true shape of existence.
+
+Of these five realms, however, the most contested is the [[Surface Layer]], which sits in the middle of the five spheres and hosts the greatest diversity of sentient life. Because of its covetous history and its advantageous position among the spheres of domain, it is often the battlefield of divine and mortal conquest. 
