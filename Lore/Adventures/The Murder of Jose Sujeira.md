@@ -41,3 +41,19 @@ Unfortunately, despite their tremendous effort and exceptional valor in the face
 # Cult Involvement
 
 While interrogating the deputy, [[Vicente Anbrosio]], Svorcra discovered that the detained lawkeeper was involved with a sinister cult known as [[The Mycelial Thread]], and had been acting as a courier between the obscured members of the Thread. Lord Elgor believed that an adherent to the old ways may potentially have handed out divine justice according to the doctrine of [[The Ashen Bough]], so the introduction of a competing religious doctrine further muddied the waters.
+
+# Final Confrontation
+
+The deeper the group dug into the mystery, the more suspicion was cast on the mayor, [[Rodrigo De Maya]]. His willingness to cast a strange and inexperienced group of outsiders with an important investigation, his gift of a treacherous manor on the eve of a horrific cyclical massacre and his supposed ignorance to the pilfering of the town vault all painted a picture of someone either hiding guilt, or entirely incompetent.
+
+The group decided to stop chasing their tails and confront the mayor with these accusations and, after applying pressure, he finally confessed that he was the one who ended José's life. While they successfully uncovered the murderer, the entire investigation was cast into question when it was revealed that the murder fell within the framework of law adopted by the people of the village - [[The Ashen Bough|The Ninefold Path]].
+
+Knowing from the start that he was exonerated for the killing, the frustrated adventurers asked why they had been tasked with this investigation. The mayor's reasoning was sound, though no less upsetting: the community was on the verge of tearing itself apart with neighbors accusing neighbors and having an outside group cast an impartial investigation would ease the tension, allowing him to keep his execution in the shadows - thus protecting the reputation of his daughter, [[Julia De Maya]].
+
+As for the accusation of intentionally sticking the Lord of the Land in a cursed manor, he insisted that it was simply poor timing: the village council decreed that the manor should be gifted to [[Salvadaro Harbin Glumbo|Lord Glumbo]] many years ago as an attempt to gain favor with the ruler. He never arrived to claim the gift, however, and when he finally showed up on the eve of an inauspicious event, no one had the heart to tell him he couldn't claim the dwelling. This excuse was delivered in full sincerity.
+
+This didn't sit well with the group, however, and they claimed that if his actions were truly virtuous and fell within the framework of their law, then there should be nothing to hide and the people of the village should be the final judges. Though he was unhappy, De Maya consented and dismissed the group from service.
+
+# Celebration
+
+Lord Glumbo, despite his creeping depression over the disfigurement of his partner [[Magdalena Isabel A'Dora Glumbo|Magda]], decreed that a party should be held in their honor at [[The Hollow Antler]]. While it was a kind gesture, the group was slightly confused as to why no one seemed at all concerned that the mayor killed a citizen. Glumbo told the group that these people hold to an ancient and barbaric law tied to a superstitious old religion, and while he didn't agree with it, he didn't feel it was his place to cast judgement on their way of life.
