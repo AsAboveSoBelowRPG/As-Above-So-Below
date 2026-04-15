@@ -1,5 +1,0 @@
-An enterprising young man with no aptitude for agricultural work, Tristan instead opted to run the family inn, [[Cabeca de Corvo]] in [[Aldeia de Espiga]]. As the youngest child of affluent family, and the only male heir, Tristan has lived a comfortable life of luxury - a deep contrast to the rest of the inhabitants of the small village.
-
-Despite this, he is generally adored for his kindness and generosity; the latter of which makes him a poor businessman. His ledgers keep running open tabs for the villagers that he knows will never be paid - his mother [[Claudia Corvinho]] who owns the inn is always lecturing him about the importance of income.
-
-Even though he has a comfortable life, he dreams of someday escaping the small village and exploring the realm; finding a place where he isn't chained to the legacy of his family. The only thing stopping him from leaving is his sister, [[Graça Corvinho|Graça]], who can can't bear to leave behind.
