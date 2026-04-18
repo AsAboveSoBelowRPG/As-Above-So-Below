@@ -12,4 +12,6 @@ Though the body of the wicked demon was able to free itself, it failed to find t
 
 Little does he know that the skull is actually in possession of a [[Fixer]] named [[Sebuh Kenku]]. Likewise, Sebuh is unaware of the powerful relic he carries; using it as a novelty by transforming it into the heart of a homunculus he calls "Kadav". 
 
-Though Pazu attempted to use his influence to convince the Kenku to bring the skull to him, he only managed to get the inventor as far north as [[Moradu]], where he became involved with a group known as the [[AAA Fixers For You]]. Now the skull remains wrapped up with other sentimental knick-knacks in the fixer's headquarters.
+Though Pazu attempted to use his influence to convince the Kenku to bring the skull to him, he only managed to get the inventor as far north as [[Moradu]], where he became involved with a group known as the [[AAA Fixers For You]]. The skull remained wrapped up with other sentimental knick-knacks in the fixer's sack, seemingly unable to further influence the simple mind of the bird.
+
+Fate would grant Kadav a second chance at life through an ancient arcane magic that fused his life with that of [[Sebuh Kenku]] thanks to [[The Wondrous Boatman]]; an ancient [[Cthonic Remains|Cthonic]] being who sacrificed the life of the Fixer and saw him reborn as something wholly new; and that life was assembled from a fusion of strange circumstances, giving life to [[Kadav Papazuzian]].
