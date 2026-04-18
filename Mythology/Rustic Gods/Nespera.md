@@ -9,3 +9,9 @@ There are those who argue that Nespera is a vehement goddess that brings as much
 While theologists argue as to whether the Daughter of the Pale Blossom is an entity distinct from the Goddess Nespera, or if she is a goddess fully independent of the established deity of Mag Duinn. Regardless of her identity, she is the focus of worship for a fledgling cult called **The Groundskeepers**.
 
 She represents the healing, gentle side of nature and is imagined to be a beautiful woman of pure light. Adherents of Her faith claim she is able to heal any ailment, and even restore the dead to life by sharing her breath with them. These claims are, however, only myth as there have been no credible sightings since the dawn of the cult.
+
+# Origins
+
+Nespera is said to have been born in the land currently occupied by [[Aldeia de Espiga]] when a seed from the [[Upper Sphere]] fell through a network of fissures in the ground and planted itself in the fertile soil of the valley. When the plant blossomed, the Goddess Nespera emerged from the petals. All of the plant life in Mag Duinn is the result of Nespera's gentle guidance.
+
+The supposed site of this miracle is marked with a massive ancient statue. Its artists are unknown, as the culture that carved it left no other physical legacy. It remains a sacred site and the destination of a popular pilgrimage route in the realm. 
