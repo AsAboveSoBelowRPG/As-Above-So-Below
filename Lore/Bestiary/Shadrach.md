@@ -1,0 +1,3 @@
+One of the few known [[The Emissaries of the Thread|Emissaries]] of [[The Mycelial Thread]]. Shadrach is the leader of a small, elite force of fungal creatures that exist to keep members of the secretive cult in line. Though a [[Beast in the East|group of adventurers]] was able to dispatch some of it's contemporaries, Shadrach's power eclipses those of his peers.
+
+Shadrach serves the shadowy High Priest [[Nebuchadrezzar]], who sent his Emissaries to laisse with the former deputy of [[Aldeia de Raiz]], [[Vicente Anbrosio]], after he was discovered to be a member of the cult. After escaping the cave, his whereabouts have since been unknown.
