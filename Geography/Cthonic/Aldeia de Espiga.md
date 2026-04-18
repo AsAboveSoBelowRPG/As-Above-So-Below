@@ -10,7 +10,7 @@ Adherents of [[The Ashen Bough]] are known to make the dangerous journey through
 
 # Local Businesses
 
-- **Cabeca de Corvo**: The [[Cabeca de Corvo|only inn]] east of The Outlands has been run by the same family since before the cataclysmic arrival of the [[Primordial Gods|Primordial]] [[Nazerack]]. Currently the inn is managed by the youngest son of the Corvinho family, [[Tristan Corvinho|Tristan]].
+- **Cabeca de Corvo**: The [[Cabeca de Corvo|only inn]] east of The Outlands has been run by the same family since its construction. Currently the inn is managed by the youngest son of the Corvinho family, [[Família do Corvinho|Tristan]].
 - **Talho Ferra**: Considered to be the finest purveyor of meat in all of Mag Duinn, [[Tolivar Ferra]] is a local butcher with a near divine gift at extracting perfect cuts from any animal.
 - **Espiga Stockyards:** Formerly the busiest location in the village was the stockyards - a vast network of fences adjacent to the largest farm in the village. In times before The Outlands grew so fierce, people would gather from all over the realm to trade livestock here. It is now largely overgrown and used as pasture by local farmers.
 - **Ventodedos Granary:** A massive windmill stands above everything else in Espiga. Much of the grain from the surrounding areas is processed into flour for the entire realm.
