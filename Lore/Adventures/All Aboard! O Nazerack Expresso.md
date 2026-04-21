@@ -8,8 +8,6 @@ Entering the cavern filled the adventurous band with an immediate sense of nause
 
 While the interior of the cave seemed familiar, it also presented uncanny new sights. Red signs detailed the events of [[Castelo Ayodar]] and the dreaded [[Primordial Gods|Primordial]] [[Nazerack]]; one such sign preceded to talk about a ethereal boat that sails between the surface world and the [[Cthonic Remains]]. The path lead them upwards, deeper into the unknown.
 
-![[Zimo_Dagger.png]]
-
 In a vacant ticket booth, the group found only a placard reading an enigmatic statement: *One for One*. Attached to the counter with a beaded chain, Zimo found a masterpiece **Dagger of Venom**, which he happily plucked from its tether. Less impressively, [[Sebuh Kenku]] procured a worn, stinky cushion from the unmanned stool. [[Bo Skaal]] investigated both, finding the dagger to be the better loot.
 
 Following the sign towards "Platform A", the group discovered a haunting gathering of [[Shade|Shades]] waiting silently on benches at a paved platform by a subterranean river. Though the Fixers attempted to engage with the spirits, they found them to be unresponsive; almost statuary. While they investigated the scene, a massive form appeared down the river, making an unpleasant screech as it approached. The group hid behind the platform benches as [[O Nazerack Expresso]] pulled into the station. 
@@ -36,11 +34,11 @@ In flesh and blood, the group came upon a couple who graciously invited them to 
 
 While they were enjoying the company, Magda did a tarot reading for the group, which seemed to foretell a great journey ahead. Lord Elgar pulled the card of **The Fool**, seeming to suggest he walks unaware and unharmed through perilous situations. Ernie was the next to pull, drawing the **Wheel of Fortune** card, which represented an upcoming change as a result of choices already made. The next to draw was Kadav, who excitedly pulled **The Lovers** from the deck; Magda insisted that someone who recently entered Kadav's life will turn their entire world upside down in due time. He was quick to remark that the couple pictured on the card resembled Sal and Magda. Last to pick a card was Svorcra, who drew **The Chariot**, foretelling of a struggle between imprisonment and freedom. The group kept the cards as a keepsake of their reading and a reminder of their future; of the struggle and prosperity to come.
 
-![[shade_performance.png]]
+![performance](https://i.imgur.com/MDJb0OO.png)
 
 Also in the lounge, Ernie and Kadav became invested in the personal struggle of the shade on stage. **The Songstress** complained about desperately wanting to express herself through song, but having failed to have found the words to the song of her life, finds herself mute at the microphone. Encouraging her with a discordant backing band, the two brought a strange rhythm in direct contrast to the jazzy music of the lounge. This helped the singer break free from the genre into a sound she would describe as "New Metal"; which meant nothing to those around to hear it. Having completed her life's purpose, she excused herself to speak with The Boatman about disembarking the ship.
 
-![[fatfrog.png]]
+![fatfrog](https://i.imgur.com/PJdU6R3.png)
 
 The group continued to explore the ship, finding lost souls that needed help in moving on. They provided a final meal for a man executed before his last supper; they evoked the spirit of the sea for an old sailor by regaling him with a sea chanty; they attempted to help the shade of a clown who let loose a terrible beast and, while they successfully recaged the monster, the clown was slain. Eventually they even managed to retrieve the boy's lost toad.
 
@@ -51,8 +49,6 @@ During the course of this adventure, they happened upon an Orc named  [[Morgamor
 Using the intercom, the Boatman called the group to his office, where they found the many shades they helped waiting to make arrangements to disembark. Here, they found that for these spirits, their long journey was at an end. Each of them was fed to the heart of the ship: contained in a bizzarre chamber was the flesh of the God [[Nazerack]], which had infused itself with the inanimate ship. Through the divine gifts of the god, the ship was able to traverse between the [[Upper Sphere]] and the [[Cthonic Remains]].
 
 Unfortunately, as these shades were being consumed, the creeping darkness let in by the grim passenger slid into the chamber, causing the flesh to corrupt. In a panic and rage, the contraption spit out a hemorrhage that took shape as a blood dragon. Though this apparition was easily dispatched, the raging heart of the ship could not be calmed, and the ship crashed into a densely wooded area.
-
-![[heart_battle.png]]
 
 With [[O Nazerack Expresso]] destroyed, the heart of the God was freed at last and the group had to defend their lives against its rampage. The struggle was intense and, for Ernie, nearly deadly. While each of the adventurers gave everything they had to overcome the divine flesh of a god, Svorcra was able to finish the monster off with his dark blood magic.
 
