@@ -1,12 +1,12 @@
 > [!infobox]
 > # Theda Vidigueira
-> ![[theda.png|250]]
+> ![hag|275](https://i.imgur.com/Vzv32WG.jpeg)
 > ###### *Accused Hag*
 > |   |   |
 > | ---- | ---- |
 > | Born | ??? |
 > |  | [[Aldeia de Raiz]], [[Mag Duinn]] |
-> | Died | 3'2071 |
+> | Died | 3'2071 (AC'200) |
 > |  | [[Aldeia de Raiz]], [[Mag Duinn]] |
 
 Theda is a mysterious woman who claims to be the rightful occupant of the [[The De Cabra Murders|D'Albergaria Estate]]. Town ledgers have no record of a woman by the name of **Theda Vidigueira**, though, if her claims are to be believed, she would have been born before the settlement of the valley. By her own words, Theda inhabited the property on which the estate was built long before  **Francisco D'Albergaria** commissioned the construction of the Solar on the property overlooking the village of Aldeia de Raiz.
@@ -24,6 +24,8 @@ She gave the group an axe and invited them to explore the manor if it would aid 
 When the group rejoined her in the upstairs sitting room, she offered them fine wine and good company, again, doubling down on trying to convince the party that they ought to take part in her grim pageant. Still uncertain as to whether she could be trusted, no one committed to her scheme, nor did they initially accept her gruesome weapon - an executioner's axe. They would again encounter Theda while exploring the third floor trophy room; again imploring the group to join her cause. This time she was less patient, but still left the group to explore at their own pace.
 
 # Final Confrontation
+
+![thedahag|350](https://i.imgur.com/JwX6ido.jpeg)
 
 When confronted by [[AAA Fixers For You|the group of investigators]] in her attic lair, they were given one last chance to side with Theda and take the lives of the Lord and Lady. Here, the offer was finally refused, which lead to a great slaughter. It seemed that the hag and her minions had easily overpowered the group, but Lord Elgor was able to distract Theda by accepting her mark and agreeing to slay the couple as her thrall.
 
