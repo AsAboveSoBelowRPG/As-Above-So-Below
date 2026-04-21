@@ -1,3 +1,13 @@
+> [!infobox]
+> # Sorbo
+> ![Sorbo|275](https://i.imgur.com/Tag4oaX.jpeg)
+> ###### *Hero of the Common Man*
+> |   |   |
+> | ---- | ---- |
+> | Species | [[Demigods]] |
+> | Born | ??? |
+> |  | [[Serra Arbusto]] |
+
 Sorbo, Son of [[Matórm]], is a demigod blessed with incredible physical strength. Held as one of the most popular heroes in the history of [[Amalthea]], Sorbo has a tragic story that resonates with the people, making him more relatable and contributing to his popularity. 
 
 # Birth
