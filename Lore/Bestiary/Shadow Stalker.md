@@ -1,6 +1,6 @@
 > [!infobox]
 > # Shadow Stalker
-> ![[shadowstalker.png|300]]
+> ![stalker|275](https://i.imgur.com/B4EsPKf.jpeg)
 > ###### *Night's Cruelty Incarnate*
 > |   |   |
 > | ---- | ---- |
