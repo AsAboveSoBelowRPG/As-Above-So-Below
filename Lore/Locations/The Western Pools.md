@@ -1,4 +1,4 @@
-![[westpool.png]]
+![pools](https://i.imgur.com/S7vWYrh.jpeg)
 
 High in a volcanic caldea in the [[Serra da Vigília]], just outside the village of [[Conexão]] lies the massive hot spring complex known in modernity as The Western Pools; more formally and historically, these are known as Caldas da Bástea. 
 
