@@ -1,6 +1,6 @@
 > [!infobox]
 > # Vicent Anbrosio
-> ![[vicentedeputy.png|250]]
+> ![vicente|275](https://i.imgur.com/ph5iH7x.png)
 > ###### *Disgraced Deputy*
 > |   |   |
 > | ---- | ---- |
