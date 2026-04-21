@@ -1,5 +1,4 @@
-![[wayfererstation.png]]
-
+![station](https://i.imgur.com/Tdf5s7j.jpeg)`
 A Wayfarer's Station is a type of resonant structure - like a mirage brought into reality. Certain individuals that have a deep connection with the astral sphere are able to manifest these shelters in time of dire need. 
 
 The first time these stations were seen in [[Amalthea]] was when the wandering poet of the [[Fellowship of the Seven Petals]], [[Bixo das Flores]], summoned one during his investigation of the [[Prophecy of Conexão]]. He seemed to pull this humble provisioner into being simply to restock on his cigarettes.
