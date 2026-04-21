@@ -1,6 +1,6 @@
 > [!infobox]
 > # Slint Shatterhoof
-> ![[slint.png|250]]
+> ![slint|275](https://imgur.com/wcKqIGG.jpg)
 > ###### *God of Indulgence*
 > |   |   |
 > | ---- | ---- |
