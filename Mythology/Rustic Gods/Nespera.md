@@ -1,3 +1,5 @@
+![Nespera](https://i.imgur.com/a1LMkyH.jpeg)
+
 Worshiped by the people of [[Mag Duinn]] since the dawn of the First Age, Nespera is a [[Rustic God]] central to what are called "The Old Ways" - a religion called [[The Ashen Bough]].  While she isn't a goddess that directly interacts with her devout, her influence is felt through natural signs: a good harvest, a prayer answered through circumstantial means, dreams or through ritual evocations.
 
 Because she isn't a Goddess that deals directly with people, her representation in art and worship vary from region to region. Often she is depicted in motifs similar to a 'Green Man' - with a feminine face composed of foliage, almost always with leaves or branches protruding from the mouth. Other times people carve visages out of wood; usually very rustic and crude. These are often left in natural environments and shrines are constructed around them.
