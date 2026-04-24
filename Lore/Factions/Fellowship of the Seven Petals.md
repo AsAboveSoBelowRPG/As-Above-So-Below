@@ -1,4 +1,4 @@
-![[sevenpetals.png]]
+![Fellowship](https://i.imgur.com/8uLprSo.jpeg)
 
 The Fellowship of the Seven Petals is a group of adventurers that formed in the village of [[Conexão]] in the [[Luavila (Region)|capital region]] of [[Iberys]] in the year 3'3237 by the legendary hero [[Bixo das Flores]]. Together with his oldest friend [[Marçal Passante]], he gathered a group of adventurers bound together by prophetic dreams to cleanse the valley of a creeping darkness.
 
