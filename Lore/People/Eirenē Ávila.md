@@ -1,6 +1,6 @@
 > [!infobox]
 > # Eirenē Ávila
-> ![[eirene.png|250]]
+> ![Eirene|250](https://i.imgur.com/IWa6zs1.jpeg)
 > ###### *Matriarch of Porto Coelbren*
 > |   |   |
 > | ---- | ---- |
