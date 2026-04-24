@@ -1,6 +1,6 @@
 > [!infobox]
 > # Sir Marcelino Barbosa
-> ![[marcelino.png|200]]
+> ![Marcelino|275](https://i.imgur.com/Haq8jch.jpeg)
 > ###### *Former Warden of Coelbren*
 > |   |   |
 > | ---- | ---- |
