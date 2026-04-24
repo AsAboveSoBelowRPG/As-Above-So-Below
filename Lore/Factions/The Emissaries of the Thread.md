@@ -1,4 +1,4 @@
-![[mycoemissary.png]]
+![Emissaries](https://i.imgur.com/Ulx94Eb.jpeg)
 
 Among [[The Mycelial Thread]], there is a feared branch of supernatural enforced called The Emissaries of the Thread - bestial humanoids of rotting fungus that exist only to ensure that those within the cult are kept in line, and to act as couriers for the famously secretive religion.
 
