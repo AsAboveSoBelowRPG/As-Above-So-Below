@@ -1,6 +1,6 @@
 > [!infobox]
 > # Adeline das Flores
-> ![[adeline.png|300]]
+> ![Adeline Young|275](https://i.imgur.com/UB4mytM.jpeg)
 > ###### *Priestess of the Western Pools*
 > |   |   |
 > | ---- | ---- |
@@ -36,7 +36,7 @@ Lina and her partner [[Kavita Vahamonde das Flores]] also had a child in 3'3258 
 
 # Guardian of the Waters
 
-![[adeline2.png|350]]
+![Adeline Mature](https://i.imgur.com/QAK1ZYe.jpeg)
 During the course of her adventures with the Fellowship a subtle divinity awoke inside her, ascending to a mortal goddess, much like [[Liora Luz]]. As it has always been, her domain was the water of [[Conexão]], and the shrine within the [[House of Blossoms]] served as her sanctuary.
 
 From here she was able to perform her ritual blessings, healings and ceremonies - not only for the fellowship, but for [[Luavila (Region)|the entire region]]. After [[São Tomé]]'s passing, she also handled the bureaucratic matters of the temple until a new High Priest was appointed. During this time she established an order and hierarchy for the temple that helped to organize activities and direct aid to the specific areas that were suffering.
