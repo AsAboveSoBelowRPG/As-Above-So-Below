@@ -1,4 +1,4 @@
-![[donainez.png|350]]
+![dona inez](https://i.imgur.com/U3NQvZy.jpeg)
 Dona Inez is an old woman from *Bairro de Tela*, the textile district of [[Conexão]], a small mountain village in [[Luavila (Region)|the capital district]] of [[Iberys]]. She was already into her late 70's when a [[Liora Luz|strange woman]] arrived at her door clutching an infant. Though the woman would vanish at some point during the night, the child remained and Inez did her best to provide for the baby.
 
 Having grown up poor and spent her life working for meager wages in a textile factory, Inez - already well into her retirement - was ill-equipped to care for a child, but the woman did the best she could. She raised [[Lina das Flores|Lina]] humbly, and taught her to spool thread and yarn. The two of them picked up extra work to offset the expenses. Life was difficult, but tender.
