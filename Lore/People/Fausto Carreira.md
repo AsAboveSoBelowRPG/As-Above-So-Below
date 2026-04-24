@@ -1,6 +1,6 @@
 > [!infobox]
 > # Fausto Carreira
-> ![[fausto.png|250]]
+> ![fausto|275](https://i.imgur.com/ERu2C5z.jpeg)
 > ###### *Head of the Coelbren City Guard*
 > |   |   |
 > | ---- | ---- |
