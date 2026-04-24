@@ -1,6 +1,6 @@
 > [!infobox]
 > # Marçal Passante
-> ![[marcal.png|300]]
+> ![Marçal|275](https://i.imgur.com/tuPsqIZ.jpeg)
 > ###### *Resident Scholar of the Seven Petals*
 > |   |   |
 > | ---- | ---- |
@@ -30,6 +30,6 @@ Three years later, in 3'3244, the couple gave birth to twins: [[Nilo Passante|Ni
 
 # The Academy of Narrative Cosmology
 
-![[marcal2.png|350]]
+![Marcal Older](https://i.imgur.com/X8PReSh.jpeg)
 
 In 3'3249 Marçal, [[Erasmus Elazar de Galvez]] and [[Kavita Vahamonde das Flores]] open the [[Academy of Narrative Cosmology]] in [[Conexão]]. This university, in contrast to the school at [[Sagacidade]], focuses on the impossibility and wonder of the mundane world, and the places in which everyday life intersect with the dreaming world. Having spent most of his life as a pragmatic scholar, taking such a broad view of the universe was, at first, challenging - but considering all the uncanny things he encountered through his work with the [[Fellowship of the Seven Petals]], Marçal was surprisingly well suited to lead this peculiar school.
