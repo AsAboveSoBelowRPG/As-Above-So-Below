@@ -25,7 +25,7 @@ When the group rejoined her in the upstairs sitting room, she offered them fine 
 
 # Final Confrontation
 
-![thedahag|350](https://i.imgur.com/JwX6ido.jpeg)
+![thedahag](https://i.imgur.com/JwX6ido.jpeg)
 
 When confronted by [[AAA Fixers For You|the group of investigators]] in her attic lair, they were given one last chance to side with Theda and take the lives of the Lord and Lady. Here, the offer was finally refused, which lead to a great slaughter. It seemed that the hag and her minions had easily overpowered the group, but Lord Elgor was able to distract Theda by accepting her mark and agreeing to slay the couple as her thrall.
 
