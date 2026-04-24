@@ -1,6 +1,6 @@
 > [!infobox]
 > # Muhsina Idrissi
-> ![[Muhsina.png|250]]
+> ![Muhsina|275](https://i.imgur.com/68PKNQw.jpeg)
 > ###### *High Priestess of Slint*
 > |   |   |
 > | ---- | ---- |
