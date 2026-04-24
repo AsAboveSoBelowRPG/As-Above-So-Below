@@ -8,6 +8,8 @@ Entering the cavern filled the adventurous band with an immediate sense of nause
 
 While the interior of the cave seemed familiar, it also presented uncanny new sights. Red signs detailed the events of [[Castelo Ayodar]] and the dreaded [[Primordial Gods|Primordial]] [[Nazerack]]; one such sign preceded to talk about a ethereal boat that sails between the surface world and the [[Cthonic Remains]]. The path lead them upwards, deeper into the unknown.
 
+![Zimo's Dagger](https://i.imgur.com/hoRxFyl.jpeg)
+
 In a vacant ticket booth, the group found only a placard reading an enigmatic statement: *One for One*. Attached to the counter with a beaded chain, Zimo found a masterpiece **Dagger of Venom**, which he happily plucked from its tether. Less impressively, [[Sebuh Kenku]] procured a worn, stinky cushion from the unmanned stool. [[Bo Skaal]] investigated both, finding the dagger to be the better loot.
 
 Following the sign towards "Platform A", the group discovered a haunting gathering of [[Shade|Shades]] waiting silently on benches at a paved platform by a subterranean river. Though the Fixers attempted to engage with the spirits, they found them to be unresponsive; almost statuary. While they investigated the scene, a massive form appeared down the river, making an unpleasant screech as it approached. The group hid behind the platform benches as [[O Nazerack Expresso]] pulled into the station. 
