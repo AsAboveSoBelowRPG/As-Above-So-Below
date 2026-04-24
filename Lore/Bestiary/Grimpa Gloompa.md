@@ -1,4 +1,4 @@
-![[grimpa.png]]
+![Grimpa](https://i.imgur.com/MPrqGAu.jpeg)
 
 The Grimpa Gloompa are a horrible lineage of Cthonic dwarves that are bound eternally as servants of the dreaded ship of the damned, [[O Nazerack Expresso]]. There, they stalk the narrow hallways and cause mischief - mocking those who lose their purpose before they can disembark.
 
