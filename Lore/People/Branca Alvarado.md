@@ -1,6 +1,6 @@
 > [!infobox]
 > # Branca Alvarado
-> ![[brancaalvarado.png|250]]
+> ![Branca|275](https://i.imgur.com/OXolsi0.jpeg)
 > ###### *Star of the Fado Stage*
 > |   |   |
 > | ---- | ---- |
