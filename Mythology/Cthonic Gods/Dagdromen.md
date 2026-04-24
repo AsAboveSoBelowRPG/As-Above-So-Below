@@ -1,6 +1,6 @@
 > [!infobox]
 > # Dagdromen
-> ![[dagdromen.png|200]]
+> ![Dagdromen|275](https://i.imgur.com/eStYiLJ.jpeg)
 > ###### *Lord of Illusion*
 > |   |   |
 > | ---- | ---- |
