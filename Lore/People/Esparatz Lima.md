@@ -1,6 +1,6 @@
 > [!infobox]
 > # Esparatz Isabel Lima
-> ![[esparatz.png|250]]
+> ![esparatz|275](https://i.imgur.com/IBVMRKs.jpeg)
 > ###### *Voice of the People*
 > |   |   |
 > | ---- | ---- |
