@@ -1,6 +1,6 @@
 Being treated to a banquet in their honor, having thus solved the case of [[The Murder of Jose Sujeira]], rather than sit in the spotlight or get to know some of the inhabitants of the village, the group decided to slip out to investigate some loose ends; primarily, the disappearance of [[Vicente Anbrosio]], who vanished from the cell he was locked in.
 
-Searching his home didn't yield any physical evidence, but the place had clearly been ransacked; Svorcra was able to deduce that three sizeable people had been there recently searching for something. By following their footprints, the group was able to track them to the dark alley near the Mayor's estate, where the trail diverged.
+Searching his home didn't yield any physical evidence, but the place had clearly been ransacked; [[Svorcra]] was able to deduce that three sizeable people had been there recently searching for something. By following their footprints, the group was able to track them to the dark alley near the Mayor's estate, where the trail diverged.
 
 The clearest set of prints lead out of town and into the outlands, towards the village of [[Aldeia de Espiga]], where [[Irmã Tempestade]] had warned them that an ill-wind was blowing. As they ventured into the woods they found the discarded clothes of a village guard, the same they last saw Vicente wearing. Errnie and Kadav befriended a hungry pack of wolves who lead them to a cave - inside, Vicente was being confronted by three large monstrous creatures.
 
