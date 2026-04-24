@@ -1,6 +1,6 @@
 > [!infobox]
 > # Diona Sedehana
-> ![[diona.png|250]]
+> ![Diona|275](https://i.imgur.com/xFUxmf2.jpeg)
 > ###### *Pilgrim Aspirant*
 > |   |   |
 > | ---- | ---- |
