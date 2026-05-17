@@ -16,7 +16,7 @@ Those blessed by the gift of clairvoyance are said to be blessed by Fedelm, and 
 
 # Children
 
-Few among the [[Gods]] hold the same radiant beauty as Fedelm, and fewer, still contain the same power she wields. As such, many have looked up at the red wake of her ship with desirous thoughts, sometimes of lust - others of power. Though some have climbed her ethereal fishing line to seek an audience with the Goddess, very few have earned her pleasure, as such, she has only three offspring.
+Few among the [[Gods]] hold the same radiant beauty as Fedelm, and fewer, still contain the same power she wields. As such, many have looked up at the red wake of her ship with desirous thoughts, sometimes of lust - others of power. Though some have attempted to climb her ethereal fishing line to seek an audience with the Goddess, very few have earned her pleasure, as such, she has only three offspring.
 
 The oldest of such, [[Ulliam]], is the God of Music and is credited as bringing instruments and song to the [[Tuatha]]. He was born when Fedelm's Gandelow scraped against the peak of [[Serra Lâmpada]]. The impact attracted the [[Cthonic Gods|Cthonic]] [[Talún]], God of Earthquakes, who came to investigate the crash. The infatuation was brief, but passionate.
 
