@@ -25,3 +25,23 @@ The night was a chaotic cascade of surreal events. Morga followed a faun named [
 Ernie and Kadav noticed a few strange creatures outside and, instead of hiding from them, they banged out pop hits and made faces at them from the window. After they left, the two put up a sign directing people to the open door. This door would later be used when the strange creatures returned with reinforcements, entering the inn and immediately knocking a couple members of the party unconscious. They appeared to be after Vicente, who was still bound and captive by the group.
 
 Though the battle was bloody and hard fought, by the time dawn was beginning to crack, they finally vanquished the Gourdhead Manherd, successfully reclaiming their captive. It wasn't until dawn that Pip realized that, while Graça had left alone in the night, there was no sign of Tristan - though a thorough search of the office unveiled a secret door with a strange locking mechanism.
+
+# Fire at the Granary
+
+Having finally rested after the siege, the crew was then tested when they found the village granary in flames. The symbol of [[Aldeia de Espiga]]'s transcendence from serfdom to the free and humble village it once was, Pip immediately realized that without the mill, there would be no salvation for his hometown. Luckily, the rest of the group took little convincing before they sprung into action.
+
+On the ground floor, an older woman was cornered by two Sweepers, though they were easily dispatched in the burning room. The woman begged the adventurers to save the others who went upstairs to attempt to put out the blaze; there was little hope to save the building, and she didn't wish to see it claim any lives unnecessarily.
+
+The call to action was enough to send the group on a rescue mission. Pip lead the charge, feeling most invested in the safety of his fellow Espigians, and wishing to save the mill if possible. He scouted ahead for any other Sweepers that might be present. Ernie turned out to be quite adept at dousing the flames, creating torrents of water to purge the tower of the inferno that was consuming it.
+
+On the second floor they managed to rescue a local farmer by the name of Francisco, who informed them that there was still one more man on the floor above. True enough, the foreman of the granary, Manal, was trapped behind a rapidly spinning cog. In a rare display of true heroics, Lord Elgor leapt over the gears and carried the man over one shoulder - this was perhaps offset by the fact that he carried [[Vicente Anbrosio]] INTO danger over his other shoulder.
+
+Rather than retreating from the tower, the group decided to ascend to the top floor to douse the flames and save the building from complete destruction. In the small office at the top of the windmill, Pip found another misplaced Sweeper who seemed to accept that he was going to meet his doom in the blaze, yet was happy to chase a worse fate when it attacked the group. 
+
+After it was subsequently destroyed and Ernie put out the last of the flames, Pip cracked the lock on a chest and discovered a trove of psychotic notes and illustrations, effectively serving as a confession from the oldest child of the [[Família do Corvinho]], Graça. It illustrated her plan to burn the mill to the ground, as well as a host of other cruelties she planned to enact. They also found a lockbox full of coins labeled "Wages", containing 200 silver coins and 1,000 copper. At the bottom of the chest, they found a pendant in the shape of the Corvinho family crest, bearing the family creed "*Walk Amongst the Crows*". Pip put it around his neck.
+
+![Pendant](https://i.imgur.com/bgymMtN.jpeg)
+
+Having saved the most lucrative building in the village and several lives along the way, the group was greeted with a heroes welcome upon exiting the mill. The woman they saved on the first floor turned out to be Claudia Corvinho, the matriarch of the most influential family in the village. Wishing to thank the group properly, she invited them to a feast that evening.
+
+[[Julia De Maya]], who was travelling with the group, recognized the woman from a description given to her by her father and offered to help her prepare the meal, leaving the group to join Sra. Corvinho.
