@@ -45,3 +45,13 @@ After it was subsequently destroyed and Ernie put out the last of the flames, Pi
 Having saved the most lucrative building in the village and several lives along the way, the group was greeted with a heroes welcome upon exiting the mill. The woman they saved on the first floor turned out to be Claudia Corvinho, the matriarch of the most influential family in the village. Wishing to thank the group properly, she invited them to a feast that evening.
 
 [[Julia De Maya]], who was travelling with the group, recognized the woman from a description given to her by her father and offered to help her prepare the meal, leaving the group to join Sra. Corvinho.
+
+# Legends of the Hidden Temple
+
+Returning to the [[Cabeca de Corvo]], Pip slotted the pendant into the panel, which fit perfectly and engaged the mechanism, allowing the door to be opened. Desccending into an earthen cellar, the group found an inner chamber being guarded by two cultists wearing the regalia of [[The Mycelial Thread]]. Confronting them with aggression only served to initiate hostility, but the two were no match for the full force of the adventurers.
+
+This door was, again, locked and the they were unable to convince those inside to open the door. Without any other options available to them, Pip set to picking the lock, which he was eventually able to accomplish. Unfortunately, the other side of the door presented a frightful scene; a gathering of fanatics had just performed a gruesome sacrifice on a stone altar. Presiding over the occult practice was [[Shadrach]], the lead [[The Emissaries of the Thread|Emissary]] in service of a mysterious high priest known only as [[Nebuchadrezzar]].
+
+The cultists wasted no time assaulting the interlopers, while the Emissary seemingly sunk into the wall itself. Adding to the gruesome environment, a flock of sinewy crows burst from the dead woman's belly, after which a massive bird-like beast crawled out from her abdomen to join the melee. These dangers were overcome by the group through pain and determination, leaving the chamber vacant once more.
+
+Unable to pursue the Emissary, they instead surveyed the temple. Pip immediately recognized the victim of the ritual slaying as [[Família do Corvinho|Rosa Corvinho]], the middle child of the influential family. The altar was set up to filter the blood through a macabre alchemical contraption, resulting in a small opaque potion. Unsure what else to do, the group decided to look elsewhere for answers.
