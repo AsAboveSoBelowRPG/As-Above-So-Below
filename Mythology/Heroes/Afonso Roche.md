@@ -34,7 +34,7 @@ None of the members of this expedition ever returned from the [[Lordless Lands]]
 
 Afonso inspired many noble heroes of Amalthea throughout the Third Age. 
 
-Perhaps his greatest contribution to the modern world, was in serving as an model for the [[Ordem de Reparação]], which based its charter on his Ordem Etérea. The inspiration can be seen both in their creed and in their headquarters, which they built in Afonso's former home, Ayodar.
+Perhaps his greatest contribution to the modern world, was in serving as an model for the [[Ordem de Reparação]], which based its charter on his Ordem Etérea. The inspiration can be seen both in their creed and in their headquarters, which they built in Afonso's former home, Aragão.
 
 
 
