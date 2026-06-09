@@ -4,7 +4,7 @@ The Outlands is dangerous stretch of woodlands that separates the villages of [[
 
 The Outlands are large and dangerous, which makes exploration difficult. As such, the region has never been fully mapped, though rough paths and roads have been cut between the primary villages. These roads are often lost due to the rapid pace of vegetal growth in the outlands, so most encourage navigation via landmarks.
 
-- Piedá Riacho - a spring inhabited by a [[Naiad]] named Piedá, this small body of water feeds a small creek that runs parallel to the larger river. Though the stream can serve as a helpful navigational tool, it also serves as a source of danger, as the water sprite is not particularly welcoming.
+- Piedá Riacho - a spring inhabited by a [[Naiad]] named [[Piedá]], this small body of water feeds a small creek that runs parallel to the larger river. Though the stream can serve as a helpful navigational tool, it also serves as a source of danger, as the water sprite is not particularly welcoming.
 - Mélusina River - Fed by an ancient Naiad that dwells in an old network of caverns, Mélusina is renowned for her vapid beauty and fickle moods. The river that flows from her spring is the largest in The Outlands, and travelers are often found dead along her banks.
 - Gruta de Marrom - a single chambered cavern on the east side of the woodlands that has been used by a plethora of unsavory characters over the years, getting its name from the famed conman Garel Marrom, who used the cave as the base of operations for his smuggling venture for years.
 - Grutas de Fauna - Once a home to the mystical creatures of the woods, this network of caves has since been overrun by vicious wolves under the leadership of a cunning Weredog.
