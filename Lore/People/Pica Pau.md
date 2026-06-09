@@ -14,7 +14,7 @@ Though Pica had long existed as an uneasy mystery in the rural village, he had c
 
 # Corruption
 
-During the day, Pica tended to nest on the hill at the foot of the statue of [[Nespera]]; a popular spot for worshipers and pilgrims that follow [[The Ashen Bough|the old ways]]. It was here that Pica heard his first confession from the eldest daughter of the [[Família do Corvinho]], Graça Corvinho.  Finding that unloading her burdens on the shoulders of the bird made her feel reborn, she quickly ushered many of the other villagers to the hill to confess as well.
+During the day, Pica tended to nest on the hill at the foot of the statue of [[Nespera]]; a popular spot for worshipers and pilgrims that follow [[The Ashen Bough|the old ways]]. It was here that Pica heard his first confession from the eldest daughter of the [[Família do Corvinho]], [[Graça Corvinho]].  Finding that unloading her burdens on the shoulders of the bird made her feel reborn, she quickly ushered many of the other villagers to the hill to confess as well.
 
 It was shortly thereafter that the crops began to succumb to a strange blight that turned the corn into a toxic thorny weed. Perhaps it was this blight driving villagers away unceremoniously, and perhaps it was the blight that filled the trees with disgusting crows, but it all became a maelstrom of darkness over the village.
 
