@@ -2,7 +2,7 @@ Sr. Afonso Roche was instrumental in the foundation of the kingdom of [[Andaluz]
 
 # Early Life
 
-Born at the end of [[The Common Light]], Afonso was the son of a [[Tuatha]] woman named [[Saechal]] and a human named [[Alendor Roche]] that fought alongside [[Oisín Desterro]] in the [[Emancipation of Humanity]]. Due to the circumstances of the era, and that Saechal is listed as a servant of the Roche estate, it is likely that this wasn't a consensual union. Even though he was born of unpleasant circumstances, Afonso was given a noble upbringing and earned the respect of his father, who never fathered another offspring.
+Born at the end of [[The Common Light]], Afonso was the son of a [[Tuatha]] woman named [[Saechal]] and a human named [[Alendor Roche]] that fought alongside [[Oisín Desterro]] in the [[Emancipation of Humanity]]. Due to the circumstances of the era, and that Saechal is listed as a servant of the Roche estate, it is likely that this wasn't a consensual union. Even though he was born of unpleasant circumstances, Afonso was given a noble upbringing and earned the respect of his father, who never had another offspring.
 
 Afonso trained extensively with tutors who taught him geography, strategy, history and swordsmanship, the latter of which he excelled at. Those in his retinue praised his eloquence, his steadfast disposition and his strength; traits which made him an excellent candidate for knighthood.
 
