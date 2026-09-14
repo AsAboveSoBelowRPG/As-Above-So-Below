@@ -1,17 +1,19 @@
 > [!infobox]
 > # Kadav
-> ![[kadav.png]]
+> ![Pazu|350](https://i.imgur.com/efo3ZGE.jpeg)
 > ###### *Enchanted Skull*
 > |   |   |
 > | ---- | ---- |
 > | Discovered | 3'2070 |
 
-In ages past, the quarrel between the Warlock [[Bondade Vadeis]] and the [[Cthonic Gods|Cthonic]] [[Demigods|Demigod]] [[Pazu Pazuzu]] waged for over a century in the caves beneath the [[Serra Várzea]] with neither being able to best their rival. During their final showdown, Pazu used a magic of such a tremendous power that it mortally wounded the great wizard. Unfortunately for him, it also trigged a cave in, which pinned the demon beneath a massive stone. Using the last of his strength, Vadeis removed the demon's head and fled the cave. He didn't make it far before he succumbed to his wounds.
+In ages past, the quarrel between the Warlock [[Bondade Vadeis]] and the [[Cthonic Gods|Cthonic]] [[Archdevil]] [[Pazu Pazuzu]] waged for over a century in the caves beneath the [[Serra Várzea]] with neither being able to best their rival. During their final showdown, Pazu used a magic of such a tremendous power that it mortally wounded the great wizard. Unfortunately for him, it also trigged a cave in, which pinned the demon beneath a massive stone. Using the last of his strength, Vadeis removed the demon's head and fled the cave. He didn't make it far before he succumbed to his wounds.
 
-Though the body of the wicked demon was able to free itself, it failed to find the location of its head, and has since been walking the plains seeking to reunite with its skull -- upon which are carved the glyphs from which it draws power. As far as Pazu is aware, his nemesis still carries the skull as a trophy, and each day his anger towards this perceived foe grows more fierce.
+Though the body of the wicked demon was able to free itself by tearing it's own arm off, it failed to find the location of its head, and has since been walking the plains seeking to reunite with its skull; upon which are carved the glyphs from which it draws power. As far as Pazu was aware, his nemesis still carries the skull as a trophy, and each day his anger towards this perceived foe grows more fierce.
 
-Little does he know that the skull is actually in possession of a [[Fixer]] named [[Sebuh Kenku]]. Likewise, Sebuh is unaware of the powerful relic he carries; using it as a novelty by transforming it into the heart of a homunculus he calls "Kadav". 
+Little did he know, the skull was actually in possession of a [[Fixer]] named [[Sebuh Kenku]]. Likewise, Sebuh was unaware of the powerful relic he carried; using it as a novelty by transforming it into the heart of a homunculus he calls "Kadav". 
 
 Though Pazu attempted to use his influence to convince the Kenku to bring the skull to him, he only managed to get the inventor as far north as [[Moradu]], where he became involved with a group known as the [[AAA Fixers For You]]. The skull remained wrapped up with other sentimental knick-knacks in the fixer's sack, seemingly unable to further influence the simple mind of the bird.
 
-Fate would grant Kadav a second chance at life through an ancient arcane magic that fused his life with that of [[Sebuh Kenku]] thanks to [[The Wondrous Boatman]]; an ancient [[Cthonic Remains|Cthonic]] being who sacrificed the life of the Fixer and saw him reborn as something wholly new; and that life was assembled from a fusion of strange circumstances, giving life to [[Kadav Papazuzian]].
+# Rebirth
+
+Fate would grant Pazu a second chance at life through an ancient arcane magic that fused his life with that of [[Sebuh Kenku]] thanks to [[The Wondrous Boatman]]; an ancient [[Cthonic Remains|Cthonic]] being who sacrificed the life of the Fixer and saw him reborn as something wholly new; and that life was assembled from a fusion of strange circumstances, giving life to [[Kadav Papazuzian]].
