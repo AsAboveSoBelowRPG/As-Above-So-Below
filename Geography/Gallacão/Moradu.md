@@ -1,1 +1,0 @@
-Moradu, an old mining settlement situated in the heart of the [[Kasmanium Range]] on the southern slope of the [[Serra da Verra Alto]]. Moradu is the northernmost human settlement, not only in [[Gallacão]], but in all of the five kingdoms of man.
