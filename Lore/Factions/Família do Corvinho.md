@@ -38,6 +38,8 @@ After Gustavo vanished, the inhabitants of the village turned on Graça, especia
 
 Graça was also the first to confess her sins to [[Pica Pau]], the ancient albino Kenku that has inhabited Espiga for generations. Both through proselytizing and through forcing her employees to follow suit, she quickly shared the ecstasy with the others in the village. She has styled herself as a priestess of the white bird, laughing as she watches the town fall to ruin.
 
+Graça was ultimately defeated alongside her twisted servant Pica by [[The Bastards of Light]] when they cornered the duo in their lair deep in the heart of the blighted fields. Though her mother requested they spare her life, it was understood why this was an unreasonable request. Her body was pushed into a fissure in the ground and incinerated in the lava that filled it. No monument to her life exists in the Corvinho plot.
+
 # Rosa Corvinho
 
 Of the three children, Rosa is the most independent - raised with a resentment of the entitled attitudes of her family. The abuse she suffered from her sister's cruelty also served to push her further away.
