@@ -10,7 +10,7 @@ The daughter of the Goddess of Prophecy [[Fedelm]], Zell, self exiled herself to
 > 
 > Yet against this rising dark shall stand The Bastards of Light, reborn in a land that remembers only night. Untouched by corruption, they shall dance through the blight with a strange and terrible innocence, blind to the snares of wicked men. Though strangers to one another and unchosen by fate, they shall stand as one against the coming design, that hope might yet return to the soil.
 
-# The Seven
+# The False Seven
 
 ![The Seven](https://i.imgur.com/LHS43Ek.jpeg)
 
@@ -21,4 +21,18 @@ As news of this prophecy began to spread across the realm, a number of wise men:
 One of the seven, the white crow Pica Pau, was brought to ruin by a young woman named [[Família do Corvinho|Graça Corvinho]], who poisoned the birdman's blessed heart with black magic tainted by [[The Mycelial Thread]]. This targeted assault on the group was aimed at their very soul - as Pica represented the purity of soul.
 
 As such, the Seven fell into deep contemplation, eventually returning with the sad realization that they were not the warriors of light foretold in the prophecy. Before giving up their life's work, they sought two things: to find the true Bastards of Light, and to stop Pica's rampage before he brought destruction to the entire realm.
+
+# Successors to Destiny
+
+Having observed the actions, strength and origins of the strange adventurers, Daas recognized the true heroes foretold by the goddesses' prophecy. Facing a choice between aligning with the dark cult of [[the mycelial thread]] and taking their rightful place in the light, these seven adventurers accepted fate and ascended to their duty as defenders of the realm.
+
+Though the fates had brought these seven souls together and thrust a great responsibility onto their shoulders, this did not bind them to service and one of their numbers - unprepared to face destiny's orders - opted to turn his back on this sacred duty. [[Svorcra]] the devourer, abandoned his calling to seek answers elsewhere.
+
+Those who remained reluctantly followed the path laid before them and set about accomplishing their first test, the slaying of the corrupted leader of the former bastards: the kenku [[Pica Pau]].
+
+The prophesized heroes were the halfling sneak-thief [[Pip Vellum]], [[Errndar Bearfinder]] the Large, musician of the damned [[Kadav Papazuzian]], Disgraced son of decay [[Vicente Anbrosio]], the gentle War Orc [[Morgamorgar]], the deserter [[Svorcra]] and the leader Lord [[Elgor Silvershadow]] of the Shimmering Vale.
+
+
+
+
 
