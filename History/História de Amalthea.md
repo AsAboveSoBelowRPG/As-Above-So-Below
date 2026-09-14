@@ -47,3 +47,4 @@ In the realm of [[Mag Duinn]], time has only been tracked since the arrival of t
 - AC'120 - On the 80th anniversary of the D'Albergaria slaying, [[The De Cabra Murders|Mithá De Cabra murders his family]], with only the infant [[Francis Ferrugento]] remaining unaccounted for.
 - AC'200 - The spectral ship of the damned [[O Nazerack Expresso]] crashes in the outlands outside of Aldeia de Raiz, stranding a group of strangers and Lord Glumbo in the rural village.
 - AC'200 - The Hag [[Theda Vidigueira]] is slain in the D'Albergaria estate before she sacrifices the Lord and Lady of the Mag Duinn to the house.
+- AC'200 - A great blight decimates the harvest of [[Aldeia de Espiga]], causing a famine that impacts the entire realm. The ordeal was orchestrated by the [[Família do Corvinho]] and employed the fallen hero [[Pica Pau]] to terrorize the village.
