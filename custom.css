@@ -1,0 +1,4 @@
+/* Flowershow: highlight links to articles that do not yet exist */
+a.internal.new {
+  color: red;
+}
