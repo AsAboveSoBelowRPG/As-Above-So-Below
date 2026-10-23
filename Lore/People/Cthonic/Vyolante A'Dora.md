@@ -1,6 +1,6 @@
 > [!infobox]
 > # Vyolante A'Dora
-> ![vyolante|350](https://i.imgur.com/hZhETYF.png)
+> ![vyolante](https://i.imgur.com/hZhETYF.png)
 > ###### *Spool Bearer of the Seer*
 > |   |   |
 > | ---- | ---- |
