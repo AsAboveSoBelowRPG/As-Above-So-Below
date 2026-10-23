@@ -18,3 +18,17 @@ a.internal.new {
         margin: 0 0 15px 0;
     }
 }
+
+/* Change the look of the infobox callout */
+.floating-infobox .callout {
+    --callout-bg: rgba(243, 244, 246, 0.6) !important; /* Muted gray background */
+    --callout-border: #d1d5db !important;             /* Muted gray border */
+    background-color: var(--callout-bg) !important;
+    border-color: var(--callout-border) !important;
+}
+
+/* Optional: Change the header background color if Flowershow highlights it */
+.floating-infobox .callout-title {
+    background-color: rgba(229, 231, 235, 0.8) !important; 
+    color: #1f2937 !important; /* Dark gray text for the title */
+}
