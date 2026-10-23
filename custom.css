@@ -53,3 +53,9 @@ a.internal.new {
 .floating-infobox .heading-link {
     display: none !important;
 }
+
+
+/* Hide the infobox callout title and pencil icon */
+.floating-infobox [data-callout-title] {
+    display: none !important;
+}
