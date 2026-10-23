@@ -4,44 +4,55 @@ a.internal.new {
 }
 
 
+
 /* Highlight links to articles that do not yet exist */
 a.internal.new {
     color: red;
 }
 
-/* Infobox positioning and layout */
+/* Floating container: transparent, with no extra box */
 .floating-infobox {
     float: right;
     width: 300px;
     max-width: 100%;
     box-sizing: border-box;
-    margin: 0 0 1rem 1.25rem;
+    margin: 0 0 15px 20px;
+    background: transparent !important;
+    border: 0;
+    padding: 0;
 }
 
-/* Style the actual Flowershow callout, not every descendant */
-.floating-infobox [data-callout] {
-    background: #f4f4f5;
+/* Style the actual callout as the single visible box */
+.floating-infobox .callout {
+    background: #f4f4f5 !important;
     border: 1px solid #e4e4e7;
     border-radius: 12px;
     color: #18181b;
     box-sizing: border-box;
+    overflow-wrap: break-word;
 }
 
-/* Remove nested background and border effects */
-.floating-infobox [data-callout] [data-callout-body] {
-    background: transparent;
-    border: 0;
-    color: inherit;
+/* Remove the blanket styling of every nested element */
+.floating-infobox .callout-title,
+.floating-infobox .callout-title *,
+.floating-infobox .callout-content {
+    background: transparent !important;
+    color: #18181b !important;
+    border-color: #e4e4e7;
 }
 
-/* Keep the callout title visually consistent */
-.floating-infobox [data-callout-title] {
-    color: #18181b;
+/* Keep the image within the infobox */
+.floating-infobox img {
+    max-width: 100%;
+    height: auto;
 }
 
-/* Keep heading anchor links within their heading area */
-.floating-infobox a[href^="#"] {
-    overflow-wrap: anywhere;
+/* Avoid excessively large title text */
+.floating-infobox h1 {
+    font-size: 2rem;
+    line-height: 1.2;
+    margin-top: 0.5rem;
+    margin-bottom: 0.75rem;
 }
 
 /* Mobile layout */
@@ -49,6 +60,6 @@ a.internal.new {
     .floating-infobox {
         float: none;
         width: 100%;
-        margin: 0 0 1rem 0;
+        margin: 0 0 15px 0;
     }
 }
