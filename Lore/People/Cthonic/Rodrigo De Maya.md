@@ -1,6 +1,6 @@
 > [!infobox]
 > # Rodrigo De Maya
-> ![[rodrigo.png|250]]
+> ![[rodrigo.png]]
 > ###### *Mayor of Aldeia de Raiz*
 > |   |   |
 > | ---- | ---- |
