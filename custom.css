@@ -3,72 +3,40 @@ a.internal.new {
   color: red;
 }
 
-/* ==========================================
-   1. MAIN STRUCTURAL LAYOUT POSITIONING
-   ========================================== */
+/* 1. Pull the container right and set your text width wrap */
 .floating-infobox {
     float: right;
     width: 300px;
     margin: 0 0 15px 20px;
 }
 
-/* ==========================================
-   2. THE WORKING GRAY COLOR FORCE (DO NOT REMOVE)
-   ========================================== */
-.floating-infobox,
-.floating-infobox * {
-    background-color: #f4f4f5 !important;
-    background: #f4f4f5 !important;
-    border-color: #e4e4e7 !important;
-    color: #18181b !important;
+/* 2. Strip Flowershow's hardcoded blue color variables from this specific container */
+.floating-infobox blockquote.callout {
+    --callout-bg: #f4f4f5 !important;
+    --callout-border: #e4e4e7 !important;
+    --callout-color: #18181b !important;
 }
 
-/* ==========================================
-   3. ERASING THE HARDCODED "INFOBOX" HEADER BAR
-   ========================================== */
-/* We target the callout-title class explicitly and turn off the layout */
-.floating-infobox .callout-title,
-.floating-infobox [class*="callout-title"],
-.floating-infobox .callout-title * {
+/* 3. Completely hide the default fallback title bar ("note") and its icon */
+.floating-infobox .callout-title {
     display: none !important;
-    visibility: hidden !important;
-    opacity: 0 !important;
-    height: 0 !important;
-    padding: 0 !important;
-    margin: 0 !important;
-    font-size: 0 !important;
-    border: none !important;
 }
 
-/* ==========================================
-   4. ERASING THE FLOATING HOVER ANCHORS (#)
-   ========================================== */
-/* We target the anchor classes and pseudo-elements explicitly to shut them down */
-.floating-infobox a.anchor,
-.floating-infobox .anchor,
-.floating-infobox [class*="anchor"],
-.floating-infobox a.anchor *,
-.floating-infobox .anchor * {
+/* 4. Permanently hide the hover hashtag anchors (#) from headings */
+.floating-infobox a.anchor {
     display: none !important;
-    visibility: hidden !important;
-    opacity: 0 !important;
-    width: 0 !important;
-    height: 0 !important;
-    padding: 0 !important;
-    margin: 0 !important;
-    border: none !important;
 }
 
-/* Reset headings left margins so text aligns flat against your inside border */
-.floating-infobox h1,
-.floating-infobox h2,
-.floating-infobox h3,
+/* 5. Clean up alignment spacing on your internal content headers */
+.floating-infobox h1, 
+.floating-infobox h2, 
+.floating-infobox h3, 
 .floating-infobox h4 {
     margin-left: 0 !important;
     padding-left: 0 !important;
 }
 
-/* Mobile responsive fallback layout */
+/* Mobile responsive screen reset */
 @media (max-width: 640px) {
     .floating-infobox {
         float: none;
