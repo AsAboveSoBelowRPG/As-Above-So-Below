@@ -1,6 +1,6 @@
 > [!infobox]
 > # Sister Tempest
-> ![irmã|350](https://i.imgur.com/DYfuE5i.png)
+> ![irmã](https://i.imgur.com/DYfuE5i.png)
 > ###### *Wandering Priestess*
 > |   |   |
 > | ---- | ---- |
