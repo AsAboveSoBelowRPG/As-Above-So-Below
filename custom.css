@@ -81,19 +81,14 @@ a.internal.new {
 
 
 
-/* Enlarge infobox portraits without shrinking their container */
-[data-callout-type="infobox"] div:has(> img[data-nimg="fill"]) {
-    width: 100% !important;
-    max-width: 100% !important;
-    margin: 0 auto !important;
-}
 
-[data-callout-type="infobox"] img[data-nimg="fill"] {
+/* Enlarge infobox images while preserving their proportions */
+[data-callout-type="infobox"] [data-nimg="fill"] {
     object-fit: contain !important;
 }
 
-
-/* Give infobox images more vertical space */
+/* Give portrait images more room */
 [data-callout-type="infobox"] div:has(> img[data-nimg="fill"]) {
-    aspect-ratio: 2 / 3 !important;
+    width: 100% !important;
+    aspect-ratio: auto !important;
 }
