@@ -3,9 +3,14 @@ a.internal.new {
   color: red;
 }
 
-/* Float Obsidian infobox callouts to the right in Flowershow */
-.callout[data-callout="infobox"] {
+/* Target the outer wrapper that Flowershow uses around the infobox callout */
+div:has(> .callout[data-callout="infobox"]) {
     float: right;
     width: 300px;
     margin: 0 0 15px 20px;
+}
+
+/* Clear the float fix for Flowershow's layout rhythm */
+div:has(> .callout[data-callout="infobox"]) + * {
+    clear: none;
 }
