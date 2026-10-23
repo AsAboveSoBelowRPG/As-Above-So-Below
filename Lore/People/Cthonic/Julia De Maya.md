@@ -1,6 +1,6 @@
 j> [!infobox]
 > # Julia De Maya
-> ![Julia|275](https://i.imgur.com/JJK9gDZ.jpeg)
+> ![Julia](https://i.imgur.com/JJK9gDZ.jpeg)
 > ###### *Golden Rose of Aldeia de Raiz*
 > |   |   |
 > | ---- | ---- |
