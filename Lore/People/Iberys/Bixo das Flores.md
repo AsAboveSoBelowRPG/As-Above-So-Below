@@ -1,6 +1,6 @@
 > [!infobox]
 > # Bixo das Flores
-> ![Bixo|275](https://i.imgur.com/3R6XhJs.jpeg)
+> ![Bixo](https://i.imgur.com/3R6XhJs.jpeg)
 > ###### *Wandering Poet*
 > |   |   |
 > | ---- | ---- |
