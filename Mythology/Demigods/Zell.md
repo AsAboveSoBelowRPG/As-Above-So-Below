@@ -1,7 +1,7 @@
 
 > [!infobox]
 > # Zell
-> ![Zell|350](https://i.imgur.com/k8dg0vo.jpeg)
+> ![Zell](https://i.imgur.com/k8dg0vo.jpeg)
 > ###### *Prophet of the Underworld*
 > |   |   |
 > | ---- | ---- |
