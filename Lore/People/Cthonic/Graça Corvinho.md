@@ -1,6 +1,6 @@
 > [!infobox]
 > # Graça Corvinho
-> ![Graça|275](https://i.imgur.com/FJMKBrT.jpeg)
+> ![Graça](https://i.imgur.com/FJMKBrT.jpeg)
 > ###### *Espiga's Problem Child*
 > |   |   |
 > | ---- | ---- |
