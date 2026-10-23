@@ -1,6 +1,6 @@
 > [!infobox]
 > # Sal Glumbo
-> ![Sal|275](https://i.imgur.com/DLGXiHZ.jpeg)
+> ![Sal](https://i.imgur.com/DLGXiHZ.jpeg)
 > ###### *Fallen Lord of Mag Duinn*
 > |   |   |
 > | ---- | ---- |
