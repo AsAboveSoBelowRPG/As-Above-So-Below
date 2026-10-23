@@ -66,3 +66,14 @@ a.internal.new {
         margin: 0 0 1rem 0;
     }
 }
+
+
+/* Center infobox headings and subheadings */
+[data-callout-type="infobox"] h1,
+[data-callout-type="infobox"] h2,
+[data-callout-type="infobox"] h3,
+[data-callout-type="infobox"] h4,
+[data-callout-type="infobox"] h5,
+[data-callout-type="infobox"] h6 {
+    text-align: center;
+}
