@@ -1,6 +1,6 @@
 > [!infobox]
 > # Jose Sujeira
-> ![joe|275](https://i.imgur.com/LIjRMpj.jpeg)
+> ![joe](https://i.imgur.com/LIjRMpj.jpeg)
 > ###### *Former Janitor of The Hollow Antler*
 > |   |   |
 > | ---- | ---- |
