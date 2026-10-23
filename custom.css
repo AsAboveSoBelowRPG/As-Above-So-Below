@@ -19,21 +19,17 @@ a.internal.new {
     }
 }
 
-/* Forcefully overwrite Flowershow's callout backgrounds inside your infobox container */
-.floating-infobox blockquote.callout,
+/* Force a clean light-gray background on EVERYTHING inside the infobox */
+.floating-infobox,
+.floating-infobox * {
+    background-color: #f4f4f5 !important; /* Soft wiki gray */
+    background: #f4f4f5 !important;
+    border-color: #e4e4e7 !important;     /* Muted border color */
+}
+
+/* Fix title/icon text color so it isn't blue anymore */
 .floating-infobox .callout-title,
+.floating-infobox .callout-title *,
 .floating-infobox .callout-content {
-    background-color: #f3f4f6 !important; /* A light, clean wiki-gray background */
-    background: #f3f4f6 !important;
-}
-
-/* Optional: Tone down the inner borders to match the new background color */
-.floating-infobox blockquote.callout {
-    border-color: #d1d5db !important;
-}
-
-/* Optional: Make the title text color dark gray/black instead of blue-toned */
-.floating-infobox .callout-title,
-.floating-infobox .callout-title strong {
-    color: #1f2937 !important;
+    color: #18181b !important;            /* Clean off-black text */
 }
