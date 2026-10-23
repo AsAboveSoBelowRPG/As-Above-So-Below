@@ -1,6 +1,6 @@
 > [!infobox]
 > # Veada
-> ![veada|350](https://i.imgur.com/AlEGqDR.jpeg)
+> ![veada](https://i.imgur.com/AlEGqDR.jpeg)
 > ###### *Faun of the Outlands*
 > |   |   |
 > | ---- | ---- |
