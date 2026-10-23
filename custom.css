@@ -3,22 +3,18 @@ a.internal.new {
   color: red;
 }
 
-/* 1. Un-restrict the parent layouts so float elements can break out */
-.prose, .prose > div, article {
-    display: block !important;
+/* Custom class wrapper rule */
+.floating-infobox {
+    float: right;
+    width: 300px;
+    margin: 0 0 15px 20px;
 }
 
-/* 2. Target Flowershow's parsed blockquote class explicitly */
-blockquote.callout {
-    display: block !important;
-    float: right !important;
-    width: 300px !important;
-    max-width: 100% !important;
-    margin: 0 0 15px 20px !important;
-}
-
-/* 3. Prevent subsequent text layers from clearing the layout gap */
-blockquote.callout + *, 
-blockquote.callout ~ p {
-    clear: none !important;
+/* Force standard full-width behavior for mobile viewports */
+@media (max-width: 640px) {
+    .floating-infobox {
+        float: none;
+        width: 100%;
+        margin: 0 0 15px 0;
+    }
 }
