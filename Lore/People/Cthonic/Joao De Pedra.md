@@ -1,6 +1,6 @@
 > [!infobox]
 > # Joao De Pedra
-> ![Joao|275](https://i.imgur.com/EwtqMIw.png)
+> ![Joao](https://i.imgur.com/EwtqMIw.png)
 > ###### *Blacksmith of the Aldeia*
 > |   |   |
 > | ---- | ---- |
