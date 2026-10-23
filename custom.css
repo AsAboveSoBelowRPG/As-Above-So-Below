@@ -2,3 +2,10 @@
 a.internal.new {
   color: red;
 }
+
+/* Float Obsidian infobox callouts to the right in Flowershow */
+.callout[data-callout="infobox"] {
+    float: right;
+    width: 300px;
+    margin: 0 0 15px 20px;
+}
