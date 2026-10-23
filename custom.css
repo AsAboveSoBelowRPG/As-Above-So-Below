@@ -21,7 +21,7 @@ a.internal.new {
 
 ---
 
-/* 1. Base layout positioning for your outer container block */
+/* 1. Base shape and position config for your wrapper container box */
 .floating-infobox {
     float: right;
     width: 300px;
@@ -29,36 +29,42 @@ a.internal.new {
     border: 1px solid #e4e4e7 !important;
     border-radius: 8px;
     padding: 16px !important;
-}
-
-/* 2. RE-APPLY THE WORKING COLOR ENFORCEMENT TO EVERYTHING SAFELY */
-.floating-infobox,
-.floating-infobox * {
-    background-color: #f4f4f5 !important; /* Soft wiki gray back */
+    background-color: #f4f4f5 !important; /* Soft wiki gray */
     background: #f4f4f5 !important;
-    border-color: #e4e4e7 !important;     /* Muted layout lines */
-    color: #18181b !important;            /* Clean dark gray text */
 }
 
-/* ==========================================
-   3. SPECIFIC SUB-ELEMENT ERASING DELETIONS
-   ========================================== */
+/* 2. APPLY GREY ONLY TO LEGITIMATE TEXT ELEMENTS (Bypasses anchors and titles) */
+.floating-infobox p,
+.floating-infobox ul,
+.floating-infobox li,
+.floating-infobox h1,
+.floating-infobox h2,
+.floating-infobox h3,
+.floating-infobox h4,
+.floating-infobox blockquote,
+.floating-infobox .callout-content,
+.floating-infobox span:not([class*="icon"]):not([class*="anchor"]) {
+    background-color: #f4f4f5 !important;
+    background: #f4f4f5 !important;
+    color: #18181b !important; /* Clean off-black text color */
+}
 
-/* COMPLETELY REMOVE THE BLUE HEADER ROW (PENCIL ICON & INFOBOX TEXT) */
+/* 3. COMPLETELY ERASE THE BLUE HEADER ROW (PENCIL ICON & INFOBOX TEXT) */
 .floating-infobox .callout-title,
-.floating-infobox .callout-title * {
+.floating-infobox svg,
+.floating-infobox span[class*="icon"] {
     display: none !important;
     visibility: hidden !important;
-    opacity: 0 !important;
     height: 0 !important;
     padding: 0 !important;
     margin: 0 !important;
 }
 
-/* COMPLETELY ERASE THE FLOATING '#' ANCHORS FOR ALL HEADINGS/SUBHEADINGS */
+/* 4. FORCE VANISH FLOATING '#' HOVER ANCHORS ON BOTH HEADINGS & SUBHEADINGS */
 .floating-infobox a.anchor,
 .floating-infobox .anchor,
 .floating-infobox [class*="anchor"],
+.floating-infobox [class*="header"]::before,
 .floating-infobox h1::before,
 .floating-infobox h2::before,
 .floating-infobox h3::before,
@@ -71,13 +77,15 @@ a.internal.new {
     content: "" !important;
 }
 
-/* REMOVE INTERNAL HEADING PADDING CAUSING TEXT SLIDES OUTSIDE THE BORDER */
+/* 5. FIX MARGIN SHIFTS CAUSING THE HEADINGS TO PUSH OUTSIDE THE BOX WIDTH */
 .floating-infobox h1,
 .floating-infobox h2,
 .floating-infobox h3,
 .floating-infobox h4 {
     margin-left: 0 !important;
     padding-left: 0 !important;
+    position: relative !important;
+    left: 0 !important;
 }
 
 /* Mobile responsive layout fallback safeguard */
