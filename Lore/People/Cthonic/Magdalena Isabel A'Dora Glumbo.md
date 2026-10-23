@@ -1,6 +1,6 @@
 > [!infobox]
 > # Magda Glumbo
-> ![Magda|275](https://i.imgur.com/MsXShIL.jpeg)
+> ![Magda](https://i.imgur.com/MsXShIL.jpeg)
 > ###### *Spiritualist Consort of Lord Glumbo*
 > |   |   |
 > | ---- | ---- |
