@@ -1,6 +1,6 @@
 > [!infobox]
 > # Afonso Roche
-> ![Afonso|350](https://i.imgur.com/FW4ezul.png)
+> ![Afonso](https://i.imgur.com/FW4ezul.png)
 > ###### *Duke of Etérea*
 > |   |   |
 > | ---- | ---- |
