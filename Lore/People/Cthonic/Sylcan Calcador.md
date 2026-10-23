@@ -24,6 +24,6 @@ Unfortunately, his curious nature lead him to continually push the boundaries of
 
 # Scandal & Exile
 
-Having become so beholden to his own drugs simply to get through the day, it was only a matter of time before his addiction became a dangerous liability. When the extent of his depraivity was uncovered by the staff, he was brought before [[Mistress Isabel]] and confronted by his transgressions. He was ordered to vacate the [[Ilha Lamento]] and never return.
+Having become so beholden to his own drugs simply to get through the day, it was only a matter of time before his addiction became a dangerous liability. When the extent of his depraivity was uncovered by the staff, he was brought before [[Isabel Salinas]] and confronted by his transgressions. He was ordered to vacate the [[Ilha Lamento]] and never return.
 
 Since then, Sylcan has travelled the realm dealing drugs in back alleys and darkened rooms. Unfortunately, around the time of his dismissal, the lands began to grow hostile and dangerous - leading to a number of close calls with an early death. He has sworn time and again that if he could find a place to settle down, he would kick his addictions and submit to a simple life.
