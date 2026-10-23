@@ -3,40 +3,52 @@ a.internal.new {
   color: red;
 }
 
-/* Flowershow: highlight links to articles that do not yet exist */
+
+/* Highlight links to articles that do not yet exist */
 a.internal.new {
-  color: red;
+    color: red;
 }
 
-/* Custom class wrapper rule */
+/* Infobox positioning and layout */
 .floating-infobox {
     float: right;
     width: 300px;
-    margin: 0 0 15px 20px;
+    max-width: 100%;
+    box-sizing: border-box;
+    margin: 0 0 1rem 1.25rem;
 }
 
-/* Force standard full-width behavior for mobile viewports */
+/* Style the actual Flowershow callout, not every descendant */
+.floating-infobox [data-callout] {
+    background: #f4f4f5;
+    border: 1px solid #e4e4e7;
+    border-radius: 12px;
+    color: #18181b;
+    box-sizing: border-box;
+}
+
+/* Remove nested background and border effects */
+.floating-infobox [data-callout] [data-callout-body] {
+    background: transparent;
+    border: 0;
+    color: inherit;
+}
+
+/* Keep the callout title visually consistent */
+.floating-infobox [data-callout-title] {
+    color: #18181b;
+}
+
+/* Keep heading anchor links within their heading area */
+.floating-infobox a[href^="#"] {
+    overflow-wrap: anywhere;
+}
+
+/* Mobile layout */
 @media (max-width: 640px) {
     .floating-infobox {
         float: none;
         width: 100%;
-        margin: 0 0 15px 0;
+        margin: 0 0 1rem 0;
     }
 }
-
-
-/* Force a clean light-gray background on EVERYTHING inside the infobox */
-.floating-infobox,
-.floating-infobox * {
-    background-color: #f4f4f5 !important; /* Soft wiki gray */
-    background: #f4f4f5 !important;
-    border-color: #e4e4e7 !important;     /* Muted border color */
-}
-
-/* Fix title/icon text color so it isn't blue anymore */
-.floating-infobox .callout-title,
-.floating-infobox .callout-title *,
-.floating-infobox .callout-content {
-    color: #18181b !important;            /* Clean off-black text */
-}
-
