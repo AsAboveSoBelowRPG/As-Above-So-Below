@@ -1,6 +1,6 @@
 > [!infobox]
 > # Pica Pau
-> ![Manal|350](https://i.imgur.com/vieH3PC.jpeg)
+> ![Manal](https://i.imgur.com/vieH3PC.jpeg)
 > ###### *Proud Miller*
 > |   |   |
 > | ---- | ---- |
