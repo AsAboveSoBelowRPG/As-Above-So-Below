@@ -1,3 +1,15 @@
+> [!infobox]
+> # Afonso Roche
+> ![Afonso|350](https://i.imgur.com/FW4ezul.png)
+> ###### *Duke of Etérea*
+> |   |   |
+> | ---- | ---- |
+> | Species | [[Tuatha]]-[[Human]] |
+> | Born | [[The Common Light]] |
+> |  | [[Chaves]], [[Andaluz]] | 
+> | Died | 3'071 |
+> |  | [[Lordless Lands]], [[Gallacão]] | 
+
 Sr. Afonso Roche was instrumental in the foundation of the kingdom of [[Andaluz]], and served as the last living member of the [[Ordem Etérea]]. He died at the age of 424, and a monument was constructed in [[Castellón de la Aragão]] in which his remains are to be interred if his body should ever be found.
 
 # Early Life
