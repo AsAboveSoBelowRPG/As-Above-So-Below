@@ -18,7 +18,7 @@ As news of this prophecy began to spread across the realm, a number of wise men:
 
 # Corruption
 
-One of the seven, the white crow Pica Pau, was brought to ruin by a young woman named [[Família do Corvinho|Graça Corvinho]], who poisoned the birdman's blessed heart with black magic tainted by [[The Mycelial Thread]]. This targeted assault on the group was aimed at their very soul - as Pica represented the purity of soul.
+One of the seven, the white crow Pica Pau, was brought to ruin by a young woman named [[Família do Corvinho|Graça Corvinho]], who poisoned the birdman's blessed heart with black magic tainted by [[The Mycelial Thread]]. This targeted assault on the group was aimed at their very soul - as Pica represented their purity.
 
 As such, the Seven fell into deep contemplation, eventually returning with the sad realization that they were not the warriors of light foretold in the prophecy. Before giving up their life's work, they sought two things: to find the true Bastards of Light, and to stop Pica's rampage before he brought destruction to the entire realm.
 
