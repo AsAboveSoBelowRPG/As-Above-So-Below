@@ -3,14 +3,18 @@ a.internal.new {
   color: red;
 }
 
-/* Target the outer wrapper that Flowershow uses around the infobox callout */
-div:has(> .callout[data-callout="infobox"]) {
+/* 1. Target Flowershow's blockquote callout layout */
+blockquote.callout {
     float: right;
     width: 300px;
     margin: 0 0 15px 20px;
 }
 
-/* Clear the float fix for Flowershow's layout rhythm */
-div:has(> .callout[data-callout="infobox"]) + * {
-    clear: none;
+/* 2. Optional: If you only want to affect a specific title (like "Quick Facts") */
+/* instead of EVERY single callout on your site, use this selector instead: */
+blockquote.callout:has(.callout-title.infobox),
+blockquote.callout:has(.callout-title:contains("Quick Facts")) {
+    float: right;
+    width: 300px;
+    margin: 0 0 15px 20px;
 }
