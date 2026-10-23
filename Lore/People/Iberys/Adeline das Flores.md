@@ -1,6 +1,6 @@
 > [!infobox]
 > # Adeline das Flores
-> ![Adeline Young|275](https://i.imgur.com/UB4mytM.jpeg)
+> ![Adeline Young](https://i.imgur.com/UB4mytM.jpeg)
 > ###### *Priestess of the Western Pools*
 > |   |   |
 > | ---- | ---- |
