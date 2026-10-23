@@ -19,33 +19,19 @@ a.internal.new {
     }
 }
 
-/* 1. Strip the background and borders off Flowershow's inner callout boxes */
-.floating-infobox blockquote,
-.floating-infobox .callout,
+---
+
+/* Force a clean light-gray background on EVERYTHING inside the infobox */
+.floating-infobox,
+.floating-infobox * {
+    background-color: #f4f4f5 !important; /* Soft wiki gray */
+    background: #f4f4f5 !important;
+    border-color: #e4e4e7 !important;     /* Muted border color */
+}
+
+/* Fix title/icon text color so it isn't blue anymore */
 .floating-infobox .callout-title,
+.floating-infobox .callout-title *,
 .floating-infobox .callout-content {
-    background: transparent !important;
-    background-color: transparent !important;
-    border: none !important;
-    box-shadow: none !important;
+    color: #18181b !important;            /* Clean off-black text */
 }
-
-/* 2. Paint the custom colors cleanly onto your outer wrapper box instead */
-.floating-infobox {
-    float: right;
-    width: 300px;
-    margin: 0 0 15px 20px;
-    
-    /* Edit your custom background here */
-    background-color: #f4f4f5 !important; /* Soft Wikipedia style gray */
-    border: 1px solid #d4d4d8 !important;  /* Clean gray border */
-    border-radius: 8px;
-    padding: 12px;
-}
-
-/* 3. Strip any residual blue text accents from the title text strings */
-.floating-infobox .callout-title,
-.floating-infobox .callout-title * {
-    color: #18181b !important; /* Off-black title text */
-}
-
