@@ -3,45 +3,40 @@ a.internal.new {
   color: red;
 }
 
-/* 1. Pull the container right and set your text width wrap */
+/* Flowershow: highlight links to articles that do not yet exist */
+a.internal.new {
+  color: red;
+}
+
+/* Custom class wrapper rule */
 .floating-infobox {
     float: right;
     width: 300px;
     margin: 0 0 15px 20px;
 }
 
-/* 2. Strip Flowershow's hardcoded blue color variables from this specific container */
-.floating-infobox blockquote.callout {
-    --callout-bg: #f4f4f5 !important;
-    --callout-border: #e4e4e7 !important;
-    --callout-color: #18181b !important;
-}
-
-/* 3. Completely hide the default fallback title bar ("note") and its icon */
-.floating-infobox .callout-title {
-    display: none !important;
-}
-
-/* 4. Permanently hide the hover hashtag anchors (#) from headings */
-.floating-infobox a.anchor {
-    display: none !important;
-}
-
-/* 5. Clean up alignment spacing on your internal content headers */
-.floating-infobox h1, 
-.floating-infobox h2, 
-.floating-infobox h3, 
-.floating-infobox h4 {
-    margin-left: 0 !important;
-    padding-left: 0 !important;
-}
-
-/* Mobile responsive screen reset */
+/* Force standard full-width behavior for mobile viewports */
 @media (max-width: 640px) {
     .floating-infobox {
         float: none;
         width: 100%;
         margin: 0 0 15px 0;
     }
+}
+
+
+/* Force a clean light-gray background on EVERYTHING inside the infobox */
+.floating-infobox,
+.floating-infobox * {
+    background-color: #f4f4f5 !important; /* Soft wiki gray */
+    background: #f4f4f5 !important;
+    border-color: #e4e4e7 !important;     /* Muted border color */
+}
+
+/* Fix title/icon text color so it isn't blue anymore */
+.floating-infobox .callout-title,
+.floating-infobox .callout-title *,
+.floating-infobox .callout-content {
+    color: #18181b !important;            /* Clean off-black text */
 }
 
