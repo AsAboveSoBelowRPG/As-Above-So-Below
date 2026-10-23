@@ -77,3 +77,12 @@ a.internal.new {
 [data-callout-type="infobox"] h6 {
     text-align: center;
 }
+
+/* Enlarge images inside infoboxes */
+[data-callout-type="infobox"] img {
+    display: block;
+    width: 85%;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
