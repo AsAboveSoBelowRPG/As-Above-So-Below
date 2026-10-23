@@ -1,3 +1,5 @@
+<div class="floating-infobox">
+
 > [!infobox]
 > # Anna Leandro
 > ![Anna|275](https://i.imgur.com/gaQ8GlS.jpeg)
@@ -7,6 +9,8 @@
 > | Species | [[Human]] |
 > | Born | 3'2014 |
 > |  | [[Aldeia de Raiz]], [[Mag Duinn]] |
+
+</div>
 
 Anna was born in the village of [[Aldeia de Raiz]], the daughter of Marcos Leandro, the innkeeper. She was raised in the inn and learned, from a very young age, how to properly run every aspect of the business. By the time she was 20 years old, she had worked every position in the business. When her father passed away and she inherited the business, she didn't have a moment of discomfort taking over. She had prepared her whole life to run the business, which is much like a community hub.
 
