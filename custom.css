@@ -5,57 +5,64 @@ a.internal.new {
 
 
 
-/* Infobox positioning and layout */
-.floating-infobox {
+/* Highlight links to articles that do not yet exist */
+a.internal.new {
+    color: red;
+}
+
+/* Automatically float every Infobox callout */
+[data-callout-type="infobox"] {
     float: right;
     width: 300px;
     max-width: 100%;
     box-sizing: border-box;
     margin: 0 0 1rem 1.25rem;
-}
 
-/* Style the actual Flowershow callout, not every descendant */
-.floating-infobox [data-callout] {
-    background: #f4f4f5;
+    /* Gray background and clean border */
+    background: #f4f4f5 !important;
     border: 1px solid #e4e4e7;
     border-radius: 12px;
     color: #18181b;
-    box-sizing: border-box;
 }
 
 /* Remove nested background and border effects */
-.floating-infobox [data-callout] [data-callout-body] {
-    background: transparent;
+[data-callout-type="infobox"] [data-callout-body] {
+    background: transparent !important;
     border: 0;
     color: inherit;
 }
 
-/* Keep the callout title visually consistent */
-.floating-infobox [data-callout-title] {
-    color: #18181b;
+/* Hide the Infobox title and pencil icon */
+[data-callout-type="infobox"] [data-callout-title] {
+    display: none !important;
 }
 
-/* Keep heading anchor links within their heading area */
-.floating-infobox a[href^="#"] {
-    overflow-wrap: anywhere;
+/* Hide automatic heading anchor links */
+[data-callout-type="infobox"] .heading-link {
+    display: none !important;
+}
+
+/* Keep images within the infobox */
+[data-callout-type="infobox"] img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Keep text and links legible */
+[data-callout-type="infobox"],
+[data-callout-type="infobox"] * {
+    border-color: #e4e4e7;
+}
+
+[data-callout-type="infobox"] [data-callout-body] {
+    color: #18181b;
 }
 
 /* Mobile layout */
 @media (max-width: 640px) {
-    .floating-infobox {
+    [data-callout-type="infobox"] {
         float: none;
         width: 100%;
         margin: 0 0 1rem 0;
     }
-}
-
-/* Remove heading anchor symbols inside infoboxes */
-.floating-infobox .heading-link {
-    display: none !important;
-}
-
-
-/* Hide the infobox callout title and pencil icon */
-.floating-infobox [data-callout-title] {
-    display: none !important;
 }
