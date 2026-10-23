@@ -1,6 +1,6 @@
 > [!infobox]
 > # Fillipa Alyce
-> ![Fillipa|275](https://i.imgur.com/Ae7LR0i.jpeg)
+> ![Fillipa](https://i.imgur.com/Ae7LR0i.jpeg)
 > ###### *Determined Archeologist*
 > |   |   |
 > | ---- | ---- |
