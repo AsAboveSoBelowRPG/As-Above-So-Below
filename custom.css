@@ -21,49 +21,56 @@ a.internal.new {
 
 ---
 
-/* 1. Base wrapper container rules */
+/* 1. LOCK DOWN COLORING & LAYOUT FOR EVERY INTERNAL LAYER UNIVERALLY */
+.floating-infobox,
+.floating-infobox * {
+    background-color: #f4f4f5 !important; /* Soft wiki gray */
+    background: #f4f4f5 !important;
+    border-color: #e4e4e7 !important;     /* Muted border color */
+    color: #18181b !important;            /* Clean off-black text color */
+}
+
+/* 2. COMPLETELY ERASE THE BLUE HEADER TEXT AND PENCIL ICON */
+.floating-infobox .callout-title,
+.floating-infobox .callout-title * {
+    display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+/* 3. COMPLETELY ELIMINATE HOVER ANCHORS ON HEADINGS (# BOXES) */
+.floating-infobox a.anchor,
+.floating-infobox [class*="anchor"],
+.floating-infobox h1::before,
+.floating-infobox h2::before,
+.floating-infobox h3::before {
+    display: none !important;
+    visibility: hidden !important;
+    width: 0 !important;
+    height: 0 !important;
+    content: "" !important;
+}
+
+/* 4. CHOP OFF MARGIN LEAKS CAUSING HEADINGS TO SLIDE LEFT */
+.floating-infobox h1,
+.floating-infobox h2,
+.floating-infobox h3 {
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+    position: relative !important;
+    left: 0 !important;
+}
+
+/* 5. Clean up layout positioning rules for the container box */
 .floating-infobox {
     float: right;
     width: 300px;
     margin: 0 0 15px 20px;
-    background-color: #f4f4f5 !important;
     border: 1px solid #e4e4e7 !important;
     border-radius: 8px;
     padding: 16px !important;
-}
-
-/* 2. Target elements safely (removes the universal * block that caused the leaking # boxes) */
-.floating-infobox blockquote.callout,
-.floating-infobox .callout-content {
-    background: transparent !important;
-    background-color: transparent !important;
-    border: none !important;
-    box-shadow: none !important;
-    color: #18181b !important;
-}
-
-/* 3. COMPLETELY HIDE THE UGLY "INFOBOX" HEADER AND PENCIL ICON */
-.floating-infobox .callout-title {
-    display: none !important;
-}
-
-/* 4. FORCE RE-HIDE THE FLOATING HOVER ANCHORS SHOWN ON THE LEFT (#) */
-.floating-infobox a.anchor,
-.floating-infobox .anchor,
-.floating-infobox [class*="anchor"] {
-    display: none !important;
-    visibility: hidden !important;
-    background: transparent !important;
-    width: 0 !important;
-    margin: 0 !important;
-}
-
-/* 5. Clean up the main character header spacing inside the box */
-.floating-infobox h1, 
-.floating-infobox h2, 
-.floating-infobox h3 {
-    margin-top: 0 !important;
-    padding-left: 0 !important;
 }
 
 /* Mobile responsive layout safeguard */
