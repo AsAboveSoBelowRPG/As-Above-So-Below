@@ -3,18 +3,14 @@ a.internal.new {
   color: red;
 }
 
-/* 1. Target Flowershow's blockquote callout layout */
-blockquote.callout {
+/* Target the un-classed outer container div that contains your infobox */
+div:has(> blockquote.callout .callout-title.infobox) {
     float: right;
     width: 300px;
     margin: 0 0 15px 20px;
 }
 
-/* 2. Optional: If you only want to affect a specific title (like "Quick Facts") */
-/* instead of EVERY single callout on your site, use this selector instead: */
-blockquote.callout:has(.callout-title.infobox),
-blockquote.callout:has(.callout-title:contains("Quick Facts")) {
-    float: right;
-    width: 300px;
-    margin: 0 0 15px 20px;
+/* Ensure the floating block handles text flow without creating blank gaps */
+div:has(> blockquote.callout .callout-title.infobox) + * {
+    clear: none;
 }
