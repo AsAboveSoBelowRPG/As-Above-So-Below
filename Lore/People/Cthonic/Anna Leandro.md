@@ -2,7 +2,7 @@
 
 > [!infobox]
 > # Anna Leandro
-> ![Anna|275](https://i.imgur.com/gaQ8GlS.jpeg)
+> ![Anna](https://i.imgur.com/gaQ8GlS.jpeg)
 > ###### *Proprietress of the Hollow Antler*
 > |   |   |
 > | ---- | ---- |
