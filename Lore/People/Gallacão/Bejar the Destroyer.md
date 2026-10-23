@@ -1,6 +1,6 @@
 > [!infobox]
 > # Demétrio Bejar
-> ![Bejar|275](https://imgur.com/96AgquV.jpg)
+> ![Bejar](https://imgur.com/96AgquV.jpg)
 > ###### *Buccaneer Captain of the Black Arrow*
 > |   |   |
 > | ---- | ---- |
