@@ -3,14 +3,26 @@ a.internal.new {
   color: red;
 }
 
-/* Target the un-classed outer container div that contains your infobox */
-div:has(> blockquote.callout .callout-title.infobox) {
-    float: right;
-    width: 300px;
-    margin: 0 0 15px 20px;
+/* Fail-safe Flexbox layout trigger for Flowershow pages with infoboxes */
+main, article, .prose {
+    display: flex;
+    flex-direction: column;
 }
 
-/* Ensure the floating block handles text flow without creating blank gaps */
-div:has(> blockquote.callout .callout-title.infobox) + * {
-    clear: none;
+/* Force any block containing a callout labeled "infobox" to shift right */
+div:has(.callout), blockquote.callout {
+    align-self: flex-end;
+    float: right !important;
+    display: block !important;
+    width: 320px !important;
+    max-width: 100%;
+    margin: 10px 0 20px 20px !important;
+    clear: none !important;
+}
+
+/* Fallback: Override Flowershow's default display block context if it fights layout */
+.callout {
+    display: block !important;
+    float: right !important;
+    width: 320px !important;
 }
