@@ -1,6 +1,6 @@
 > [!infobox]
 > # Pica Pau
-> ![Pica|350](https://i.imgur.com/RtefmPy.jpeg)
+> ![Pica](https://i.imgur.com/RtefmPy.jpeg)
 > ###### *Night Crow of Espiga*
 > |   |   |
 > | ---- | ---- |
