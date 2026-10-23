@@ -4,27 +4,22 @@ a.internal.new {
 }
 
 /* ==========================================
-   1. INVISIBLE OUTER STRUCTURAL WRAPPER
+   1. FIXED LAYOUT & COLOR VARIABLE INJECTION
    ========================================== */
 .floating-infobox {
     float: right;
     width: 300px;
     margin: 0 0 15px 20px;
-    /* Completely stripped of borders/backgrounds to eliminate the "box inside a box" error */
-    background: transparent !important;
-    border: none !important;
-    padding: 0 !important;
-}
-
-/* ==========================================
-   2. FORCE THE TRUE LAYOUT BOX TO TURN GREY
-   ========================================== */
-.floating-infobox blockquote.callout {
-    /* Explicitly rewrite Flowershow's theme design variables to wipe out the blue color */
+    
+    /* Safely force Flowershow's internal theme variables to render gray */
     --callout-bg: #f4f4f5 !important;
     --callout-border: #e4e4e7 !important;
     --callout-color: #18181b !important;
-    
+}
+
+/* Force the internal parsed callout block to match the gray styling */
+.floating-infobox .callout,
+.floating-infobox blockquote {
     background-color: #f4f4f5 !important;
     background: #f4f4f5 !important;
     border: 1px solid #e4e4e7 !important;
@@ -33,7 +28,7 @@ a.internal.new {
     box-shadow: none !important;
 }
 
-/* Ensure inner text remains dark on the new gray background */
+/* Force dark text readability across all inner values */
 .floating-infobox .callout-content,
 .floating-infobox .callout-content * {
     color: #18181b !important;
@@ -41,32 +36,46 @@ a.internal.new {
     background-color: transparent !important;
 }
 
+
 /* ==========================================
-   3. CLEANLY ERASE THE INFOBOX HEADER ROW & PENCIL
+   2. WIPING OUT THE "INFOBOX" HEADER BAR
    ========================================== */
-.floating-infobox .callout-title {
+.floating-infobox .callout-title,
+.floating-infobox [class*="callout-title"],
+.floating-infobox div:has(> .callout-icon),
+.floating-infobox .callout-icon,
+.floating-infobox svg {
     display: none !important;
     visibility: hidden !important;
     opacity: 0 !important;
     height: 0 !important;
+    min-height: 0 !important;
+    max-height: 0 !important;
     padding: 0 !important;
     margin: 0 !important;
+    border: none !important;
 }
 
+
 /* ==========================================
-   4. CLEANLY ERASE THE FLOATING HOVER HASHTAGS (#)
+   3. WIPING OUT FLOATING HOVER HASHTAGS (#)
    ========================================== */
 .floating-infobox a.anchor,
 .floating-infobox .anchor,
-.floating-infobox [class*="anchor"] {
+.floating-infobox [class*="anchor"],
+.floating-infobox h1::before,
+.floating-infobox h2::before,
+.floating-infobox h3::before,
+.floating-infobox h4::before {
     display: none !important;
     visibility: hidden !important;
+    opacity: 0 !important;
     width: 0 !important;
     height: 0 !important;
-    opacity: 0 !important;
+    content: "" !important;
 }
 
-/* Flatten title margins so text stays beautifully aligned inside the box */
+/* Align names and headers flat against the inner border padding */
 .floating-infobox h1,
 .floating-infobox h2,
 .floating-infobox h3,
@@ -75,6 +84,7 @@ a.internal.new {
     padding-left: 0 !important;
     background: transparent !important;
     background-color: transparent !important;
+    color: #18181b !important;
 }
 
 /* Mobile responsive layout fallback safeguard */
