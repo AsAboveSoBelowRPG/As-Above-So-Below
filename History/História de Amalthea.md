@@ -26,6 +26,7 @@ The third age, our modern times, are defined by the rise of the [[Five Kingdoms 
 - 3'1038 - Peace established between the kingdoms of [[Gharve]] and [[Umayyad]].
 - 3'1042 - Leadership of [[Coelbren (Region)|Coelbren]] transfers from [[Marcelino Barbosa]] to [[The Council of Six]].
 - 3'1462 - Foundation of the village of [[Moradu]] by [[Clan Glumbo]].
+- 3'1841 - The [[Feall Sisters]] stage a revolt against the [[Snáithe Airgid]], reforming as the [[Dramhaíl Coven]].
 - 3'2010 - Famous Travelling musicians [[The Flame Stompers]] play their first show in [[Luavila]].
 - 3'2066 - The Anlaith return from exile and declare war on the [[Anduantas]].
 - 3'2071 - Formation of the [[AAA Fixers For You]] band at the Moradu Guild Hall.
@@ -37,7 +38,7 @@ In some regions of [[Amalthea]], time is measured using alternative landmarks. M
 
 ## Mag Duinn
 
-In the realm of [[Mag Duinn]], time has only been tracked since the arrival of the [[Primordial Gods|Primordial]] [[Nazerack]], marking the years since this disruption as *After Calamity*, stylized as AC' followed by the year. A brief timeline of important events cataloged in the realm is listed below.
+In the realm of [[Mag Duinn]], time has only been tracked since the arrival of the [[Primordial Gods|Primordial]] [[Nazerack]], marking the years since this disruption as *After Calamity*, stylized as AC' followed by the year. As time moves at a dramatically different pace in the Cthonic, mapping these years to terrestrial events is a challenging endeavor. A brief timeline of important events cataloged in the realm is listed below.
 
 - AC'00 - [[Salvadaro Harbin Glumbo]] establishes the holy city of [[Scathanna]] and takes the throne as Lord of the Lands.
 - AC'00 - Francisco D'Albergaria commissions the construction of a massive estate on the hill outside of [[Aldeia de Raiz]].
