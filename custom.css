@@ -80,23 +80,15 @@ a.internal.new {
 
 
 
-/* Enlarge and center infobox images */
-[data-callout-type="infobox"] [data-nimg="fill"] {
-    width: 100% !important;
-    height: 100% !important;
-    object-fit: contain !important;
-}
 
-/* Increase the image container's display width */
+/* Enlarge infobox portraits without shrinking their container */
 [data-callout-type="infobox"] div:has(> img[data-nimg="fill"]) {
-    position: relative !important;
-    width: 95% !important;
-    height: auto !important;
-    aspect-ratio: 16 / 9;
+    width: 100% !important;
+    max-width: 100% !important;
     margin: 0 auto !important;
 }
 
-/* Preserve image proportions */
 [data-callout-type="infobox"] img[data-nimg="fill"] {
-    max-width: 100% !important;
+    object-fit: contain !important;
 }
+
