@@ -1,6 +1,6 @@
 > [!infobox]
 > # Pazu Pazuzu
-> ![Pazu|350](https://i.imgur.com/jPIwo3H.jpeg)
+> ![Pazu](https://i.imgur.com/jPIwo3H.jpeg)
 > ###### *Lord of Decadence*
 > |   |   |
 > | ---- | ---- |
