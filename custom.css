@@ -3,67 +3,74 @@ a.internal.new {
   color: red;
 }
 
-/* 1. Base alignment structure for your custom outer container block */
+/* ==========================================
+   1. BASE PANEL DIMENSIONS
+   ========================================== */
 .floating-infobox {
     float: right;
     width: 300px;
     margin: 0 0 15px 20px;
 }
 
-/* 2. FORCE FLOWERSHOW'S ROOT DESIGN TO TURN GREY ON THIS SPECIFIC CALLOUT */
-.floating-infobox [class*="callout"],
-.floating-infobox blockquote {
+/* ==========================================
+   2. THE COLOR LOCK (Keeps the box grey)
+   ========================================== */
+.floating-infobox,
+.floating-infobox * {
     background-color: #f4f4f5 !important;
     background: #f4f4f5 !important;
-    border: 1px solid #e4e4e7 !important;
-    border-radius: 8px !important;
-    padding: 16px !important;
-    box-shadow: none !important;
-}
-
-/* Ensure inner elements inherit the correct gray background color safely */
-.floating-infobox .callout-content,
-.floating-infobox .callout-content * {
-    background-color: transparent !important;
-    background: transparent !important;
+    border-color: #e4e4e7 !important;
     color: #18181b !important;
 }
 
-/* 3. COMPLETELY ERASE THE HARDCODED "INFOBOX" HEADER ROW & PENCIL ICON */
-.floating-infobox div[class*="title"],
+/* ==========================================
+   3. ERASING THE "INFOBOX" HEADER ROW & PENCIL
+   ========================================== */
 .floating-infobox .callout-title,
-.floating-infobox svg,
-.floating-infobox span[class*="icon"] {
+.floating-infobox .callout-title * {
     display: none !important;
     visibility: hidden !important;
+    opacity: 0 !important;
     height: 0 !important;
     padding: 0 !important;
     margin: 0 !important;
+    background: transparent !important;
+    background-color: transparent !important;
+    border: none !important;
+    font-size: 0 !important;
 }
 
-/* 4. PERMANENT FIX FOR FLOATING HOVER HASHTAGS (#) ON ALL HEADINGS */
+/* ==========================================
+   4. ERASING THE FLOATING HOVER HASHTAGS (#)
+   ========================================== */
 .floating-infobox a.anchor,
 .floating-infobox .anchor,
-.floating-infobox [class*="anchor"] {
+.floating-infobox [class*="anchor"],
+.floating-infobox a.anchor *,
+.floating-infobox .anchor *,
+.floating-infobox [class*="anchor"] * {
     display: none !important;
     visibility: hidden !important;
+    opacity: 0 !important;
     width: 0 !important;
     height: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    background: transparent !important;
+    background-color: transparent !important;
+    border: none !important;
 }
 
-/* Reset margin spacing properties that throw subheadings out of the border */
+/* Fix margin spacing properties that throw subheadings out of alignment */
 .floating-infobox h1,
 .floating-infobox h2,
 .floating-infobox h3,
 .floating-infobox h4 {
     margin-left: 0 !important;
     padding-left: 0 !important;
-    position: relative !important;
-    left: 0 !important;
-    color: #18181b !important;
 }
 
-/* Mobile responsive layout fallback safeguard */
+/* Mobile responsive layout safeguard */
 @media (max-width: 640px) {
     .floating-infobox {
         float: none;
