@@ -48,3 +48,8 @@ a.internal.new {
         margin: 0 0 1rem 0;
     }
 }
+
+/* Remove heading anchor symbols inside infoboxes */
+.floating-infobox .heading-link {
+    display: none !important;
+}
