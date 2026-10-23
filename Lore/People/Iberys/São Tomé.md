@@ -1,6 +1,6 @@
 > [!infobox]
 > # São Tomé Marto
-> ![tome|275](https://i.imgur.com/PPv8fH5.jpeg)
+> ![tome](https://i.imgur.com/PPv8fH5.jpeg)
 > ###### *Saint of Hot Waters*
 > |   |   |
 > | ---- | ---- |
