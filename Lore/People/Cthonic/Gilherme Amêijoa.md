@@ -1,6 +1,6 @@
 > [!infobox]
 > # Gil Amêijoa
-> ![gil|275](https://i.imgur.com/z7J6JVr.jpeg)
+> ![gil](https://i.imgur.com/z7J6JVr.jpeg)
 > ###### *Barber-Surgeon of Raiz*
 > |   |   |
 > | ---- | ---- |
