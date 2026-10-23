@@ -1,6 +1,6 @@
 > [!infobox]
 > # Sorbo
-> ![Sorbo|275](https://i.imgur.com/Tag4oaX.jpeg)
+> ![Sorbo](https://i.imgur.com/Tag4oaX.jpeg)
 > ###### *Hero of the Common Man*
 > |   |   |
 > | ---- | ---- |
