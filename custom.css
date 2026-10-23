@@ -92,3 +92,8 @@ a.internal.new {
     object-fit: contain !important;
 }
 
+
+/* Give infobox images more vertical space */
+[data-callout-type="infobox"] div:has(> img[data-nimg="fill"]) {
+    aspect-ratio: 2 / 3 !important;
+}
