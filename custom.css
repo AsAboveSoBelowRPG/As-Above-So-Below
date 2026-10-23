@@ -77,3 +77,9 @@ a.internal.new {
 [data-callout-type="infobox"] h6 {
     text-align: center;
 }
+
+
+/* Give infobox portraits a taller display area */
+[data-callout-type="infobox"] div:has(> img[data-nimg="fill"]) {
+    aspect-ratio: 3 / 4 !important;
+}
