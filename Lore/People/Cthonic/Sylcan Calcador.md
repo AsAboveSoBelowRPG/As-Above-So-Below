@@ -1,6 +1,6 @@
 > [!infobox]
 > # Sylcan Calcador
-> ![Sylcan|350](https://i.imgur.com/9OpPFpI.jpeg)
+> ![Sylcan](https://i.imgur.com/9OpPFpI.jpeg)
 > ###### *Strung Out Chemist*
 > |   |   |
 > | ---- | ---- |
