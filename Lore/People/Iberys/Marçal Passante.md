@@ -1,6 +1,6 @@
 > [!infobox]
 > # Marçal Passante
-> ![Marçal|275](https://i.imgur.com/tuPsqIZ.jpeg)
+> ![Marçal](https://i.imgur.com/tuPsqIZ.jpeg)
 > ###### *Resident Scholar of the Seven Petals*
 > |   |   |
 > | ---- | ---- |
