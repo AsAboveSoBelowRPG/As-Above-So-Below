@@ -78,11 +78,25 @@ a.internal.new {
     text-align: center;
 }
 
-/* Enlarge images inside infoboxes */
-[data-callout-type="infobox"] img {
+
+/* Enlarge and center infobox images */
+[data-callout-type="infobox"] p:has(> a > img),
+[data-callout-type="infobox"] p:has(> img) {
+    text-align: center;
+}
+
+[data-callout-type="infobox"] a:has(> img) {
     display: block;
-    width: 85%;
-    max-width: 100%;
-    height: auto;
+    width: 100%;
+    text-align: center;
+}
+
+[data-callout-type="infobox"] a > img,
+[data-callout-type="infobox"] p > img {
+    display: block;
+    width: 95% !important;
+    max-width: 100% !important;
+    height: auto !important;
     margin: 0 auto;
+    box-sizing: border-box;
 }
