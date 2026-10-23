@@ -1,6 +1,6 @@
 > [!infobox]
 > # Gaspar Glumbo
-> ![Glumbo|275](https://i.imgur.com/tbB1KKh.jpeg)
+> ![Glumbo](https://i.imgur.com/tbB1KKh.jpeg)
 > ###### *Alderman of Moradu*
 > |   |   |
 > | ---- | ---- |
