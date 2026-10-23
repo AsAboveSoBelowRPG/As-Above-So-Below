@@ -1,6 +1,6 @@
 > [!infobox]
 > # Senhor Gabriel Cardoza
-> ![cardoza|275](https://i.imgur.com/V74qMoR.jpeg)
+> ![cardoza](https://i.imgur.com/V74qMoR.jpeg)
 > ###### *Procurer of Exotic Goods*
 > |   |   |
 > | ---- | ---- |
