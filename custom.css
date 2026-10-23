@@ -80,15 +80,7 @@ a.internal.new {
 
 
 
-
-
-/* Enlarge infobox images while preserving their proportions */
-[data-callout-type="infobox"] [data-nimg="fill"] {
-    object-fit: contain !important;
-}
-
-/* Give portrait images more room */
-[data-callout-type="infobox"] div:has(> img[data-nimg="fill"]) {
-    width: 100% !important;
-    aspect-ratio: auto !important;
+[data-callout-type="infobox"] img {
+    max-width: 100%;
+    height: auto;
 }
