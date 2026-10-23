@@ -21,7 +21,9 @@ a.internal.new {
 
 ---
 
-/* 1. Base layout positioning for your outer container block */
+/* ==========================================
+   1. BOX DEFINITION & COLOR LOCK
+   ========================================== */
 .floating-infobox {
     float: right;
     width: 300px;
@@ -29,62 +31,82 @@ a.internal.new {
     border: 1px solid #e4e4e7 !important;
     border-radius: 8px;
     padding: 16px !important;
-    background-color: #f4f4f5 !important; /* Forces background gray */
+    
+    /* Paint the color onto your outer custom block instead of the layout components */
+    background-color: #f4f4f5 !important; 
     background: #f4f4f5 !important;
 }
 
-/* 2. FORCE GRAY OVER EVERY SINGLE PIXEL LAYER (Turns the blue completely off) */
-.floating-infobox * {
-    background-color: #f4f4f5 !important;
-    background: #f4f4f5 !important;
-    border-color: #e4e4e7 !important;
-    color: #18181b !important;
+/* Strip out Flowershow's default blue alert color boxes inside your container */
+.floating-infobox blockquote.callout,
+.floating-infobox .callout-content {
+    background-color: transparent !important;
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
 }
 
-/* 3. FLATTEN AND VISUALLY WIPE OUT THE INFOBOX HEADER & PENCIL ICON VIA MASKING */
+/* Force standard readability text styling across your character facts */
+.floating-infobox p,
+.floating-infobox li,
+.floating-infobox td,
+.floating-infobox h1,
+.floating-infobox h2,
+.floating-infobox h3,
+.floating-infobox h4 {
+    color: #18181b !important; /* Off-black */
+}
+
+
+/* ==========================================
+   2. ELIMINATING THE HARDCODED INFOBOX HEADER & ICONS
+   ========================================== */
+
+/* Target the callout-title parent wrapper block and shut down its dimensions */
 .floating-infobox .callout-title,
-.floating-infobox .callout-title *,
-.floating-infobox div[class*="title"],
-.floating-infobox div[class*="header"] {
+.floating-infobox [class*="callout-title"],
+.floating-infobox div:has(> .callout-icon) {
     display: none !important;
     visibility: hidden !important;
     opacity: 0 !important;
     height: 0 !important;
-    max-height: 0 !important;
-    min-height: 0 !important;
     padding: 0 !important;
     margin: 0 !important;
-    font-size: 0 !important;
-    line-height: 0 !important;
-    border: none !important;
 }
 
-/* 4. DEFENSIVE REMOVAL FOR FLOATING '#' HOVER ANCHORS ON ALL HEADINGS */
+/* Remove the icon graphics, svgs, or text references */
+.floating-infobox .callout-icon,
+.floating-infobox svg,
+.floating-infobox strong {
+    /* Only targets strong tags inside the header namespace */
+    .callout-title & { display: none !important; }
+}
+
+
+/* ==========================================
+   3. PERMANENT FIX FOR FLOATING HOVER ANCHORS (#)
+   ========================================== */
 .floating-infobox a.anchor,
 .floating-infobox .anchor,
-.floating-infobox [class*="anchor"],
-.floating-infobox h1::before,
-.floating-infobox h2::before,
-.floating-infobox h3::before,
-.floating-infobox h4::before {
+.floating-infobox [class*="anchor"] {
     display: none !important;
     visibility: hidden !important;
-    opacity: 0 !important;
     width: 0 !important;
     height: 0 !important;
-    content: "" !important;
 }
 
-/* 5. REMOVE MARGIN SHIFTS ON TEXT STRINGS */
+/* Remove negative layout margin padding pull on headers */
 .floating-infobox h1,
 .floating-infobox h2,
 .floating-infobox h3,
 .floating-infobox h4 {
     margin-left: 0 !important;
     padding-left: 0 !important;
+    position: relative !important;
+    left: 0 !important;
 }
 
-/* Mobile responsive layout safeguard */
+/* Mobile responsive fallback layout */
 @media (max-width: 640px) {
     .floating-infobox {
         float: none;
@@ -92,3 +114,4 @@ a.internal.new {
         margin: 0 0 15px 0;
     }
 }
+
