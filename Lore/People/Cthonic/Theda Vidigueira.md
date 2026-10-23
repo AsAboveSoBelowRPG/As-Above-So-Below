@@ -1,6 +1,6 @@
 > [!infobox]
 > # Theda Vidigueira
-> ![hag|275](https://i.imgur.com/Vzv32WG.jpeg)
+> ![hag](https://i.imgur.com/Vzv32WG.jpeg)
 > ###### *Accused Hag*
 > |   |   |
 > | ---- | ---- |
