@@ -19,10 +19,10 @@ Though comparatively small when compared to other regions of the surface world o
 
 - [[Aldeia de Raiz]] - Central to the Vale de Raiz, this is one of the largest villages in the entire land.
 - [[Aldeia de Espiga]] - A rural village entirely dependent on the production of cereal crops that grow in the surrounding farms.
-- [[Novo Aragão]] - Currently in construction, this fortress is a monument to the terrestrial [[Castellón de la Aragão]].
+- [[Novo Ayodar]] - Currently in construction, this fortress is a monument to the terrestrial [[Castelo Ayodar]].
 - [[Aldeia de Alagadiço]] - Nestled in the [[Slíomach Bog]], a massive swamp, this village is home to a strange population.
 - [[Cemitério dos Prazeres]] - Stretching out from the countryside outside Raiz, rumors claim that the boundaries of this cemetery expand every night.
-- [[Ilha Lamento]] - An island in the center of the lake in the center of Mag Duinn hosts a magnificent [[Sanatório Desesperança]] where it is rumored any illness can be cured.
+- [[Ilha Lamento]] - An island in the center of [[Loch Linne]]  hosts the magnificent [[Sanatório Desesperança]] where it is rumored any illness can be cured.
 - [[Fásaigh Sangrenta]] - Once a mythical ancient woodland, this cursed forest is suffering from a supernatural blight.
 - [[Dubh Sliogán]] - The forbidden woodland said to be home to the goddess [[Nespera]].
-- Scathanna - The holy capital of Mag Duinn, and home of Lord [[Salvadaro Harbin Glumbo]].
+- [[Scathanna]] - The holy capital of Mag Duinn, and home of Lord [[Salvadaro Harbin Glumbo]].
