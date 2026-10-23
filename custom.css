@@ -21,14 +21,32 @@ a.internal.new {
 
 ---
 
+/* 1. Base layout positioning for your outer container block */
+.floating-infobox {
+    float: right;
+    width: 300px;
+    margin: 0 0 15px 20px;
+    border: 1px solid #e4e4e7 !important;
+    border-radius: 8px;
+    padding: 16px !important;
+}
+
+/* 2. RE-APPLY THE WORKING COLOR ENFORCEMENT TO EVERYTHING SAFELY */
+.floating-infobox,
+.floating-infobox * {
+    background-color: #f4f4f5 !important; /* Soft wiki gray back */
+    background: #f4f4f5 !important;
+    border-color: #e4e4e7 !important;     /* Muted layout lines */
+    color: #18181b !important;            /* Clean dark gray text */
+}
+
 /* ==========================================
-   1. ERASING TASKS (MUST RUN FIRST TO LOOSE INHERITANCE)
+   3. SPECIFIC SUB-ELEMENT ERASING DELETIONS
    ========================================== */
 
-/* COMPLETELY ERASE THE BLUE HEADER TEXT BAR AND PENCIL ICON */
+/* COMPLETELY REMOVE THE BLUE HEADER ROW (PENCIL ICON & INFOBOX TEXT) */
 .floating-infobox .callout-title,
-.floating-infobox div[class*="title"],
-.floating-infobox div[class*="header"] {
+.floating-infobox .callout-title * {
     display: none !important;
     visibility: hidden !important;
     opacity: 0 !important;
@@ -37,7 +55,7 @@ a.internal.new {
     margin: 0 !important;
 }
 
-/* COMPLETELY REMOVE HOVER HASHTAG ANCHORS (#) ON ALL HEADINGS & SUBHEADINGS */
+/* COMPLETELY ERASE THE FLOATING '#' ANCHORS FOR ALL HEADINGS/SUBHEADINGS */
 .floating-infobox a.anchor,
 .floating-infobox .anchor,
 .floating-infobox [class*="anchor"],
@@ -53,53 +71,16 @@ a.internal.new {
     content: "" !important;
 }
 
-/* CHOP OFF DEFENSIVE MARGIN LEAKS THAT PUSH HEADINGS OUTSIDE THE BOX */
+/* REMOVE INTERNAL HEADING PADDING CAUSING TEXT SLIDES OUTSIDE THE BORDER */
 .floating-infobox h1,
 .floating-infobox h2,
 .floating-infobox h3,
 .floating-infobox h4 {
     margin-left: 0 !important;
     padding-left: 0 !important;
-    position: relative !important;
-    left: 0 !important;
 }
 
-
-/* ==========================================
-   2. COLORING & BOX SHAPING (RUN SECOND)
-   ========================================== */
-
-/* Clean up layout positioning rules for the container box layout */
-.floating-infobox {
-    float: right;
-    width: 300px;
-    margin: 0 0 15px 20px;
-    border: 1px solid #e4e4e7 !important;
-    border-radius: 8px;
-    padding: 16px !important;
-}
-
-/* LOCK DOWN BACKGROUND COLORS ON NON-HIDDEN INTERNALS SAFELY */
-.floating-infobox,
-.floating-infobox blockquote.callout,
-.floating-infobox .callout-content,
-.floating-infobox p,
-.floating-infobox ul,
-.floating-infobox li,
-.floating-infobox h1,
-.floating-infobox h2,
-.floating-infobox h3,
-.floating-infobox h4,
-.floating-infobox table,
-.floating-infobox tr,
-.floating-infobox td {
-    background-color: #f4f4f5 !important; /* Soft wiki gray */
-    background: #f4f4f5 !important;
-    border-color: #e4e4e7 !important;     /* Muted layout borders */
-    color: #18181b !important;            /* Clean off-black text color */
-}
-
-/* Mobile responsive layout safeguard */
+/* Mobile responsive layout fallback safeguard */
 @media (max-width: 640px) {
     .floating-infobox {
         float: none;
