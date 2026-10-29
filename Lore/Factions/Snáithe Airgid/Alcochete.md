@@ -1,6 +1,6 @@
 > [!infobox]
 > # Alcochete
-> ![Alcocheete|350](https://i.imgur.com/5S8GMtn.png)
+> ![Alcocheete](https://i.imgur.com/5S8GMtn.png)
 > ###### *First Sorceress of Mag Duinn*
 > |   |   |
 > | ---- | ---- |
