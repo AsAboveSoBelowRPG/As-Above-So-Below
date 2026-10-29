@@ -1,6 +1,6 @@
 > [!infobox]
 > # Caillte
-> ![Caillte|350](https://i.imgur.com/lYzE8V1.jpeg)
+> ![Caillte](https://i.imgur.com/lYzE8V1.jpeg)
 > ###### *The Wayward Pilgrim*
 > |   |   |
 > | ---- | ---- |
