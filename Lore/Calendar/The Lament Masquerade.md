@@ -1,6 +1,6 @@
 ![masquerade](https://i.imgur.com/wfkx13O.jpeg)
 
-Once a year nobles from across [[Mag Duinn]] gather for a grand party with the goal of raising money for the [[Sanatório Desesperança]], which offers its services free of charge to the unfortunate residents of the [[Vale de Raiz]]. Though the party began as a humanitarian event, it has become one of the most prestigious society balls in the realm, and, though everyone is masked, it is considered uncouth to not have a story to tell of your time at the Masquerade afterwards. Purchasing entry costs 1,500 gold, unless you have a writ of invitation.
+Once a year nobles from across [[Mag Duinn]] gather for a grand party with the goal of raising money for the [[Sanatório Desesperança]], which offers its services free of charge to the unfortunate residents of the [[Vale de Raiz]]. Though the party began as a humanitarian event, it has become one of the most prestigious society balls in the realm, and, though everyone is masked, it is considered uncouth to not have a story to tell of your time at the Masquerade afterwards. Purchasing entry costs **1,500 gold**, unless you have a writ of invitation.
 
 # Rules
 
