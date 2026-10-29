@@ -1,6 +1,6 @@
 > [!infobox]
 > # Fabhtanna
-> ![Fab|350](https://i.imgur.com/nLu171q.jpeg)
+> ![Fab](https://i.imgur.com/nLu171q.jpeg)
 > ###### *Sister of the Soil*
 > |   |   |
 > | ---- | ---- |
