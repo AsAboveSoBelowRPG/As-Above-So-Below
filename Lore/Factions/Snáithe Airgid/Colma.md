@@ -1,6 +1,6 @@
 > [!infobox]
 > # Colma
-> ![Colma|350](https://i.imgur.com/p72Jc5r.jpeg)
+> ![Colma](https://i.imgur.com/p72Jc5r.jpeg)
 > ###### *Sister of the Wind*
 > |   |   |
 > | ---- | ---- |
