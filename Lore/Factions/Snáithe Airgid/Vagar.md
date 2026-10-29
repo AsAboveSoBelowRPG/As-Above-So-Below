@@ -1,6 +1,6 @@
 > [!infobox]
 > # Vagar
-> ![Vagar|350](https://i.imgur.com/8wrWHmI.jpeg)
+> ![Vagar](https://i.imgur.com/8wrWHmI.jpeg)
 > ###### *Timeless Healer*
 > |   |   |
 > | ---- | ---- |
