@@ -1,6 +1,6 @@
 > [!infobox]
 > # Afonydd
-> ![boatman|350](https://i.imgur.com/1nHHgmg.jpeg)
+> ![boatman](https://i.imgur.com/1nHHgmg.jpeg)
 > ###### *Ferryman of Lost Souls*
 > |   |   |
 > | ---- | ---- |
