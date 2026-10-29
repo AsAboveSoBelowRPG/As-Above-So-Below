@@ -1,6 +1,6 @@
 > [!infobox]
 > # Fíonnuar
-> ![Fío|350](https://i.imgur.com/H5k97tI.jpeg)
+> ![Fío](https://i.imgur.com/H5k97tI.jpeg)
 > ###### *Mother of All Waters*
 > |   |   |
 > | ---- | ---- |
