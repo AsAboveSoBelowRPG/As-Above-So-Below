@@ -2,6 +2,7 @@
 
 ## Updated Articles
 
+- Several characters got updated portraits to better match the current style.
 - [[Theda Vidigueira]] was updated to reveal her true identity as the [[Feall Sisters|Feall]] [[Easóg]].
 
 ## New Articles
