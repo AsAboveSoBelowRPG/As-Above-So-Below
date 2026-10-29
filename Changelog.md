@@ -1,3 +1,21 @@
+# Oct. 29, 2026
+
+## Updated Articles
+
+- [[Theda Vidigueira]] was updated to reveal her true identity as the [[Feall Sisters|Feall]] [[Easóg]].
+
+## New Articles
+
+- [[Twenty-Four Hour Party People]]
+- [[Apelonia Gritador]]
+- [[Blantól Bhachas]]
+- [[Folaithe Bhachas]]
+- [[Trua Lámh]]
+- [[Pedro Pipocas]]
+- [[Easóg]]
+
+
+
 # Oct. 24, 2026
 
 ## Structural Changes
