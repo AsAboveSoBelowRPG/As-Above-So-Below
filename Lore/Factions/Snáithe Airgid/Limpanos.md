@@ -1,6 +1,6 @@
 > [!infobox]
 > # Limpanos
-> ![Limpanos|350](https://i.imgur.com/jtkmOUD.jpeg)
+> ![Limpanos](https://i.imgur.com/jtkmOUD.jpeg)
 > ###### *Dryad of Dubh Sliogan*
 > |   |   |
 > | ---- | ---- |
