@@ -5,9 +5,10 @@
 > |   |   |
 > | ---- | ---- |
 > | Born | ??? |
-> |  | [[Aldeia de Raiz]], [[Mag Duinn]] |
+> |  | [[Mag Duinn]] |
 > | Died | 3'2071 (AC'200) |
 > |  | [[Aldeia de Raiz]], [[Mag Duinn]] |
+> | Alias | [[Easóg]] |
 
 Theda is a mysterious woman who claims to be the rightful occupant of the [[The De Cabra Murders|D'Albergaria Estate]]. Town ledgers have no record of a woman by the name of **Theda Vidigueira**, though, if her claims are to be believed, she would have been born before the settlement of the valley. By her own words, Theda inhabited the property on which the estate was built long before  **Francisco D'Albergaria** commissioned the construction of the Solar on the property overlooking the village of Aldeia de Raiz.
 
@@ -32,3 +33,9 @@ When confronted by [[AAA Fixers For You|the group of investigators]] in her atti
 During this distraction, the group was able to tend to their wounds and gain the upper hand. One by one her servants were slain - first [[The De Cabra Murders|Loro D'Albergaria]] and then her familiar Filthy Jasper. Theda was inevitably killed when Ernie transformed into a raging boar and impaled her on his mighty tusks. Her body was pulled into Kadav's bag for some grim purpose.
 
 Having thus been dispatched, the house began to crumble, leaving the group to flee the cursed home before they became trapped in the debris.
+
+# Legacy
+
+As confirmed by a meeting with the heroic mage [[Pedro Pipocas]], the hag Theda was the adopted identity of the [[Feall Sisters|Feall Sister]] [[Easóg]], who was partially responsible for the destruction of the [[Snáithe Airgid]]. His feelings for the woman seemed to be as complicated as she was, herself - saturated in the love he carried before she was manipulated into the villain she died as. 
+
+Though he loved her dearly, her evil influence was as much a part of her existence as her tender heart and adoration of her sisters was. Pipocas was likely the only one to mourn the passing of Easóg.
