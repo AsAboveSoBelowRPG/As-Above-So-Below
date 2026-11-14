@@ -22,4 +22,4 @@ Unfortunately, Bancott had see the truth of the coming days, and shortly before 
 10. [[Adaiwen]] - The silver raven who vowed to bring music to a solemn land. Adaiwen carried the tendons of the Goddess.
 11. [[Croíasc]] - Mother of the Bog, this witch gave shelter to the creatures of filth and transformed the swamp into a thriving paradise. She holds the skin of the Goddess.
 12. [[Samhnas]] - A faun born from a living seed, Samhnas was a known trickster who abandoned her games to follow the Goddess. She carries the hair of the Goddess.
-13. [[Bancott]] - The youngest of the witches on the coven, Bancott was a gifted seer and was deeply endeared to the Goddess. Her gift has always been held in secret.
+13. [[Bancott]] - The youngest of the witches on the coven, Bancott was a gifted seer and was deeply endeared to the Goddess. Her gift has always been held in secret. 
