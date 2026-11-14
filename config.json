@@ -1,5 +1,7 @@
 {
   "showSidebar": true
+  }
+{
   "contentExclude": [
     "/Templates",
     "/Campaigns"
