@@ -1,3 +1,18 @@
+# Nov. 14, 2026
+
+## Updated Articles
+
+- [[The Bastards of Light]]
+
+## New Articles
+
+- [[Fianna Leeds]]
+- [[Adaiwen]]
+- [[Croíasc]]
+- [[Greganio]]
+- [[Samhnas]]
+- [[Bancott]]
+
 # Oct. 29, 2026
 
 ## Updated Articles
