@@ -1,8 +1,8 @@
-In the year AC'16, during her travels through the [[Cthonic Remains]], the demigod prophetess [[Zell]] foresaw a great darkness that would threaten the existence of the realm of [[Mag Duinn]]. During this time, the mounting evils would be challenged by a group of [[heroes]]. These mythical heroes were known as the 'Bastards of Light'.
+In the year AC'16, during her travels through the [[Cthonic Remains]], the demigod prophetess [[Zell]] foresaw a great darkness that would threaten the existence of the realm of [[Mag Duinn]]. During this time, the mounting evils would be challenged by a group of [[heroes]]. These mythical [[heroes]] were known as the 'Bastards of Light'.
 
 # Prophecy
 
-The daughter of the Goddess of Prophecy [[Fedelm]], Zell, self exiled herself to the [[Cthonic Remains]], where she worked ethereally to bring the [[Domains|Domain]] out of the dark ages. During her travels, when she encountered the isolated realm of Mag Duinn, she immediately received a vision of great struggle against a force of darkness.
+The daughter of the Goddess of Prophecy [[Fedelm]], [[Zell]], self exiled herself to the [[Cthonic Remains]], where she worked ethereally to bring the [[Domains|Domain]] out of the dark ages. During her travels, when she encountered the isolated realm of Mag Duinn, she immediately received a vision of great struggle against a force of darkness.
 
 > When the moon at last opens its eye, its borrowed light shall fail, and a living darkness shall sweep the lands beneath it. In its place shall rise the engines of wretched evil. The crown shall pass to another brow, leaving one abandoned to the wheel of fate, when the heart of the goddess is pierced by an ethereal thorn and her wrathful blood feeds the earth.
 > 
@@ -32,6 +32,15 @@ Those who remained reluctantly followed the path laid before them and set about 
 
 The prophesized heroes were the halfling sneak-thief [[Pip Vellum]], [[Errndar Bearfinder]] the Large, musician of the damned [[Kadav Papazuzian]], Disgraced son of decay [[Vicente Anbrosio]], the gentle War Orc [[Morgamorgar]], the deserter [[Svorcra]] and the leader Lord [[Elgor Silvershadow]] of the Shimmering Vale.
 
+# Notable Adventures
+
+Since they gathered in Mag Duinn, the Bastards have been involved in a number of profound events. The echoes of these adventures continues to shape life in the realm.
+
+- [[All Aboard! O Nazerack Expresso]] - Reborn from the blood and bodies of their [[Surface Layer]] counterparts, the heroes that would come to be known as the Bastards gather on a spectral boat travelling between worlds.
+- [[The Murder of Jose Sujeira]] - Finding themselves marooned in the village of [[Aldeia de Raiz]] on the night of a murder, Lord [[Salvadaro Harbin Glumbo]] enlists the group to find the perpetrator of the slaying.
+- [[Dinner with the Glumbos]] - Accepting an invitation to dine with the Lord of the Land, the group instead finds themselves trapped in a cursed manor on the night of a ritual murder; their faith and alignment is put to the test when a hag known as [[Theda Vidigueira]] offers them untold power for Glumbo's life.
+- [[Beast in the East]] - Following the trail of a dark cult, the group explores [[Aldeia de Espiga]] and [[The Outlands]] as they unravel the cause of a wretched curse that is suffocating a quiet rural village - home of the final member [[Pip Vellum]].
+- [[Twenty-Four Hour Party People]] - When the goddess of prophecy [[Zell]]'s spool-bearer disappears after an audience with [[Ard Breahnhelle]] noble [[Afonso Roche]], she seeks the aid of her sister's husband: Sal Glumbo. Finding his power suppressed, he instead tasks the Bastards with the task. [[The Lament Masquerade]] served as a good place to seek information about the strange disappearance. 
 
 
 
